@@ -1,0 +1,6 @@
+2024-03-15 15:30:02.6898  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-15 15:30:02.6916 [CRITICAL] Can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 15:30:02.1079  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 15:30:02.1102 [CRITICAL] Can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)

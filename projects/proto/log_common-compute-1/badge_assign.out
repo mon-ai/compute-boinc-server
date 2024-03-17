@@ -1,0 +1,52 @@
+Starting: 15 Mar 2024, 15:30:03 UTC
+PHP Fatal error:  Uncaught mysqli_sql_exception: No such file or directory in /home/boincadm/projects/proto/html/inc/db_conn.inc:40
+Stack trace:
+#0 /home/boincadm/projects/proto/html/inc/db_conn.inc(40): mysqli->__construct()
+#1 /home/boincadm/projects/proto/html/inc/boinc_db.inc(104): DbConn->init_conn()
+#2 /home/boincadm/projects/proto/html/inc/boinc_db.inc(133): BoincDb::get_aux()
+#3 /home/boincadm/projects/proto/html/inc/boinc_db.inc(678): BoincDb::get()
+#4 /home/boincadm/projects/proto/html/inc/util_ops.inc(309): BoincBadge::lookup()
+#5 /home/boincadm/projects/proto/html/ops/badge_assign.php(36): get_badge()
+#6 /home/boincadm/projects/proto/html/ops/badge_assign.php(77): get_pct_badges()
+#7 /home/boincadm/projects/proto/html/ops/badge_assign.php(100): assign_badges()
+#8 {main}
+  thrown in /home/boincadm/projects/proto/html/inc/db_conn.inc on line 40
+
+Fatal error: Uncaught mysqli_sql_exception: No such file or directory in /home/boincadm/projects/proto/html/inc/db_conn.inc:40
+Stack trace:
+#0 /home/boincadm/projects/proto/html/inc/db_conn.inc(40): mysqli->__construct()
+#1 /home/boincadm/projects/proto/html/inc/boinc_db.inc(104): DbConn->init_conn()
+#2 /home/boincadm/projects/proto/html/inc/boinc_db.inc(133): BoincDb::get_aux()
+#3 /home/boincadm/projects/proto/html/inc/boinc_db.inc(678): BoincDb::get()
+#4 /home/boincadm/projects/proto/html/inc/util_ops.inc(309): BoincBadge::lookup()
+#5 /home/boincadm/projects/proto/html/ops/badge_assign.php(36): get_badge()
+#6 /home/boincadm/projects/proto/html/ops/badge_assign.php(77): get_pct_badges()
+#7 /home/boincadm/projects/proto/html/ops/badge_assign.php(100): assign_badges()
+#8 {main}
+  thrown in /home/boincadm/projects/proto/html/inc/db_conn.inc on line 40
+Starting: 16 Mar 2024, 15:30:02 UTC
+PHP Fatal error:  Uncaught mysqli_sql_exception: No such file or directory in /home/boincadm/projects/proto/html/inc/db_conn.inc:40
+Stack trace:
+#0 /home/boincadm/projects/proto/html/inc/db_conn.inc(40): mysqli->__construct()
+#1 /home/boincadm/projects/proto/html/inc/boinc_db.inc(104): DbConn->init_conn()
+#2 /home/boincadm/projects/proto/html/inc/boinc_db.inc(133): BoincDb::get_aux()
+#3 /home/boincadm/projects/proto/html/inc/boinc_db.inc(678): BoincDb::get()
+#4 /home/boincadm/projects/proto/html/inc/util_ops.inc(309): BoincBadge::lookup()
+#5 /home/boincadm/projects/proto/html/ops/badge_assign.php(36): get_badge()
+#6 /home/boincadm/projects/proto/html/ops/badge_assign.php(77): get_pct_badges()
+#7 /home/boincadm/projects/proto/html/ops/badge_assign.php(100): assign_badges()
+#8 {main}
+  thrown in /home/boincadm/projects/proto/html/inc/db_conn.inc on line 40
+
+Fatal error: Uncaught mysqli_sql_exception: No such file or directory in /home/boincadm/projects/proto/html/inc/db_conn.inc:40
+Stack trace:
+#0 /home/boincadm/projects/proto/html/inc/db_conn.inc(40): mysqli->__construct()
+#1 /home/boincadm/projects/proto/html/inc/boinc_db.inc(104): DbConn->init_conn()
+#2 /home/boincadm/projects/proto/html/inc/boinc_db.inc(133): BoincDb::get_aux()
+#3 /home/boincadm/projects/proto/html/inc/boinc_db.inc(678): BoincDb::get()
+#4 /home/boincadm/projects/proto/html/inc/util_ops.inc(309): BoincBadge::lookup()
+#5 /home/boincadm/projects/proto/html/ops/badge_assign.php(36): get_badge()
+#6 /home/boincadm/projects/proto/html/ops/badge_assign.php(77): get_pct_badges()
+#7 /home/boincadm/projects/proto/html/ops/badge_assign.php(100): assign_badges()
+#8 {main}
+  thrown in /home/boincadm/projects/proto/html/inc/db_conn.inc on line 40

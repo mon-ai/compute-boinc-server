@@ -1,0 +1,36 @@
+Fri, 15 Mar 24 15:30:02 +0000: Starting
+PHP Fatal error:  Uncaught mysqli_sql_exception: No such file or directory in /home/boincadm/projects/proto/html/inc/db.inc:52
+Stack trace:
+#0 /home/boincadm/projects/proto/html/inc/db.inc(52): mysqli->__construct()
+#1 /home/boincadm/projects/proto/html/inc/db.inc(190): _mysql_connect()
+#2 /home/boincadm/projects/proto/html/inc/util.inc(963): db_init_aux()
+#3 /home/boincadm/projects/proto/html/ops/update_profile_pages.php(38): db_init()
+#4 {main}
+  thrown in /home/boincadm/projects/proto/html/inc/db.inc on line 52
+
+Fatal error: Uncaught mysqli_sql_exception: No such file or directory in /home/boincadm/projects/proto/html/inc/db.inc:52
+Stack trace:
+#0 /home/boincadm/projects/proto/html/inc/db.inc(52): mysqli->__construct()
+#1 /home/boincadm/projects/proto/html/inc/db.inc(190): _mysql_connect()
+#2 /home/boincadm/projects/proto/html/inc/util.inc(963): db_init_aux()
+#3 /home/boincadm/projects/proto/html/ops/update_profile_pages.php(38): db_init()
+#4 {main}
+  thrown in /home/boincadm/projects/proto/html/inc/db.inc on line 52
+Sat, 16 Mar 24 15:30:02 +0000: Starting
+PHP Fatal error:  Uncaught mysqli_sql_exception: No such file or directory in /home/boincadm/projects/proto/html/inc/db.inc:52
+Stack trace:
+#0 /home/boincadm/projects/proto/html/inc/db.inc(52): mysqli->__construct()
+#1 /home/boincadm/projects/proto/html/inc/db.inc(190): _mysql_connect()
+#2 /home/boincadm/projects/proto/html/inc/util.inc(963): db_init_aux()
+#3 /home/boincadm/projects/proto/html/ops/update_profile_pages.php(38): db_init()
+#4 {main}
+  thrown in /home/boincadm/projects/proto/html/inc/db.inc on line 52
+
+Fatal error: Uncaught mysqli_sql_exception: No such file or directory in /home/boincadm/projects/proto/html/inc/db.inc:52
+Stack trace:
+#0 /home/boincadm/projects/proto/html/inc/db.inc(52): mysqli->__construct()
+#1 /home/boincadm/projects/proto/html/inc/db.inc(190): _mysql_connect()
+#2 /home/boincadm/projects/proto/html/inc/util.inc(963): db_init_aux()
+#3 /home/boincadm/projects/proto/html/ops/update_profile_pages.php(38): db_init()
+#4 {main}
+  thrown in /home/boincadm/projects/proto/html/inc/db.inc on line 52

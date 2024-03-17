@@ -1,0 +1,98 @@
+diff --git a/proto/html/cache/f2/gpu_list.php b/proto/html/cache/f2/gpu_list.php
+new file mode 100644
+index 0000000..916d7ed
+--- /dev/null
++++ b/proto/html/cache/f2/gpu_list.php
+@@ -0,0 +1 @@
++O:8:"stdClass":5:{s:4:"cuda";O:8:"stdClass":1:{s:5:"total";a:0:{}}s:3:"ati";O:8:"stdClass":1:{s:5:"total";a:0:{}}s:9:"intel_gpu";O:8:"stdClass":1:{s:5:"total";a:0:{}}s:9:"apple_gpu";O:8:"stdClass":1:{s:5:"total";a:0:{}}s:4:"time";i:1710661193;}
+\ No newline at end of file
+diff --git a/raw/html/inc/wap.inc b/proto/html/inc/wap.inc
+index 04b30ab..10d9727 100644
+--- a/raw/html/inc/wap.inc
++++ b/proto/html/inc/wap.inc
+@@ -1,4 +1,4 @@
+-<?PHP
++<?php
+ // This file is part of BOINC.
+ // http://boinc.berkeley.edu
+ // Copyright (C) 2008 University of California
+diff --git a/raw/html/ops/.htaccess b/proto/html/ops/.htaccess
+index eed186f..b11ddd6 100644
+--- a/raw/html/ops/.htaccess
++++ b/proto/html/ops/.htaccess
+@@ -1,5 +1,5 @@
+ 
+-AuthName "raw"
++AuthName "proto"
+ AuthType Basic
+-AuthUserFile /home/boincadm/projects/raw//html/ops/.htpasswd
++AuthUserFile /home/boincadm/projects/proto//html/ops/.htpasswd
+ require valid-user
+diff --git a/proto/html/ops/.htpasswd b/proto/html/ops/.htpasswd
+new file mode 100644
+index 0000000..ab2377b
+--- /dev/null
++++ b/proto/html/ops/.htpasswd
+@@ -0,0 +1 @@
++boincadm:$apr1$7yXhsjAm$nUPGCEKymgVYGU0JTpgeJ.
+diff --git a/raw/html/project/cache_parameters.inc b/proto/html/project/cache_parameters.inc
+index 7c25126..e815ae1 100644
+--- a/raw/html/project/cache_parameters.inc
++++ b/proto/html/project/cache_parameters.inc
+@@ -17,5 +17,3 @@ define('MAX_CACHE_USAGE', 104857600);
+ 
+ // Number of page views between cache size checks
+ define('CACHE_SIZE_CHECK_FREQ', 1000);
+-
+-?>
+diff --git a/raw/html/project/project.inc b/proto/html/project/project.inc
+index ef15ae1..9a24a2f 100644
+--- a/raw/html/project/project.inc
++++ b/proto/html/project/project.inc
+@@ -12,8 +12,8 @@ require_once("../inc/util.inc");
+ 
+ //-------------- Project name and owner
+ 
+-define("PROJECT", "REPLACE WITH PROJECT NAME");
+-define("COPYRIGHT_HOLDER", "REPLACE WITH COPYRIGHT HOLDER");
++define("PROJECT", "Common Compute");
++define("COPYRIGHT_HOLDER", "mmon Co.");
+ 
+ //-------------- URLs and directories
+ 
+@@ -296,5 +296,3 @@ function project_team_credit($team) {
+ }
+ 
+ }   // if(0)
+-
+-?>
+diff --git a/proto/html/project/project_description.php b/proto/html/project/project_description.php
+new file mode 100644
+index 0000000..844b2ba
+--- /dev/null
++++ b/proto/html/project/project_description.php
+@@ -0,0 +1 @@
++Common Compute is a public market for computation.
+\ No newline at end of file
+diff --git a/raw/html/project/project_specific_prefs.inc b/proto/html/project/project_specific_prefs.inc
+index 1efaccf..8981b93 100644
+--- a/raw/html/project/project_specific_prefs.inc
++++ b/proto/html/project/project_specific_prefs.inc
+@@ -297,5 +297,3 @@ function project_specific_prefs_parse($prefs_xml) {
+ }
+ 
+ $cvs_version_tracker[]="\$Id$";  //Generated automatically - do not edit
+-
+-?>
+diff --git a/raw/html/user/schedulers.txt b/proto/html/user/schedulers.txt
+index 042ffc7..d885697 100644
+--- a/raw/html/user/schedulers.txt
++++ b/proto/html/user/schedulers.txt
+@@ -1,4 +1,4 @@
+ 
+-<!-- <scheduler>https://boinc.mmon.co/raw_cgi/cgi</scheduler> -->"
+-<link rel="boinc_scheduler" href="https://boinc.mmon.co/raw_cgi/cgi"">
++<!-- <scheduler>http://http://64.23.226.98/proto_cgi/cgi</scheduler> -->"
++<link rel="boinc_scheduler" href="http://http://64.23.226.98/proto_cgi/cgi"">
+         
+\ No newline at end of file

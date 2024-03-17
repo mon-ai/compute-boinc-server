@@ -1,0 +1,1946 @@
+[2024/03/15 15:24:58] Executing command: file_deleter -d 3
+2024-03-15 15:24:58.5538  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-15 15:24:58.5552 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/15 15:30:01] Executing command: file_deleter -d 3
+2024-03-15 15:30:02.3631  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-15 15:30:02.3753 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/15 15:31:48] Executing command: file_deleter -d 3
+2024-03-15 15:31:48.7360  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-15 15:31:48.7377 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/15 15:35:01] Executing command: file_deleter -d 3
+2024-03-15 15:35:01.6021  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-15 15:35:01.6037 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/15 15:40:01] Executing command: file_deleter -d 3
+2024-03-15 15:40:02.2320  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-15 15:40:02.2350 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/15 15:45:01] Executing command: file_deleter -d 3
+2024-03-15 15:45:02.0911  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-15 15:45:02.1190 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/15 15:50:01] Executing command: file_deleter -d 3
+2024-03-15 15:50:01.5972  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-15 15:50:01.6075 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/15 15:55:01] Executing command: file_deleter -d 3
+2024-03-15 15:55:02.1061  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-15 15:55:02.1079 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/15 16:00:01] Executing command: file_deleter -d 3
+2024-03-15 16:00:01.4899  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-15 16:00:01.4916 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/15 16:05:01] Executing command: file_deleter -d 3
+2024-03-15 16:05:01.9543  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-15 16:05:01.9570 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/15 16:10:01] Executing command: file_deleter -d 3
+2024-03-15 16:10:01.3830  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-15 16:10:01.3852 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/15 16:15:01] Executing command: file_deleter -d 3
+2024-03-15 16:15:01.8620  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-15 16:15:01.8659 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/15 16:20:01] Executing command: file_deleter -d 3
+2024-03-15 16:20:01.5193  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-15 16:20:01.5210 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/15 16:25:01] Executing command: file_deleter -d 3
+2024-03-15 16:25:01.9485  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-15 16:25:01.9507 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/15 16:30:01] Executing command: file_deleter -d 3
+2024-03-15 16:30:01.3414  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-15 16:30:01.3479 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/15 16:35:01] Executing command: file_deleter -d 3
+2024-03-15 16:35:01.9625  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-15 16:35:01.9645 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/15 16:40:01] Executing command: file_deleter -d 3
+2024-03-15 16:40:01.3910  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-15 16:40:01.3929 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/15 16:45:01] Executing command: file_deleter -d 3
+2024-03-15 16:45:01.8471  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-15 16:45:01.8494 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/15 16:50:02] Executing command: file_deleter -d 3
+2024-03-15 16:50:02.2845  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-15 16:50:02.2870 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/15 16:55:01] Executing command: file_deleter -d 3
+2024-03-15 16:55:01.6961  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-15 16:55:01.6983 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/15 17:00:01] Executing command: file_deleter -d 3
+2024-03-15 17:00:02.1576  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-15 17:00:02.1596 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/15 17:05:01] Executing command: file_deleter -d 3
+2024-03-15 17:05:01.6267  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-15 17:05:01.6284 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/15 17:10:01] Executing command: file_deleter -d 3
+2024-03-15 17:10:02.1278  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-15 17:10:02.1297 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/15 17:15:01] Executing command: file_deleter -d 3
+2024-03-15 17:15:01.5353  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-15 17:15:01.5371 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/15 17:20:01] Executing command: file_deleter -d 3
+2024-03-15 17:20:01.9893  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-15 17:20:01.9911 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/15 17:25:01] Executing command: file_deleter -d 3
+2024-03-15 17:25:01.4014  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-15 17:25:01.4044 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/15 17:30:01] Executing command: file_deleter -d 3
+2024-03-15 17:30:01.8576  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-15 17:30:01.8595 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/15 17:35:02] Executing command: file_deleter -d 3
+2024-03-15 17:35:02.3504  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-15 17:35:02.3525 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/15 17:40:01] Executing command: file_deleter -d 3
+2024-03-15 17:40:01.8122  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-15 17:40:01.8138 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/15 17:45:02] Executing command: file_deleter -d 3
+2024-03-15 17:45:02.3511  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-15 17:45:02.3533 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/15 17:50:01] Executing command: file_deleter -d 3
+2024-03-15 17:50:01.7721  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-15 17:50:01.7739 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/15 17:55:02] Executing command: file_deleter -d 3
+2024-03-15 17:55:02.2905  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-15 17:55:02.2921 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/15 18:00:01] Executing command: file_deleter -d 3
+2024-03-15 18:00:01.6870  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-15 18:00:01.6888 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/15 18:05:01] Executing command: file_deleter -d 3
+2024-03-15 18:05:02.1929  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-15 18:05:02.2066 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/15 18:10:01] Executing command: file_deleter -d 3
+2024-03-15 18:10:01.6128  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-15 18:10:01.6146 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/15 18:15:01] Executing command: file_deleter -d 3
+2024-03-15 18:15:02.0495  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-15 18:15:02.0688 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/15 18:20:01] Executing command: file_deleter -d 3
+2024-03-15 18:20:01.6591  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-15 18:20:01.6611 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/15 18:25:01] Executing command: file_deleter -d 3
+2024-03-15 18:25:02.0907  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-15 18:25:02.0928 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/15 18:30:01] Executing command: file_deleter -d 3
+2024-03-15 18:30:01.4972  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-15 18:30:01.4990 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/15 18:35:01] Executing command: file_deleter -d 3
+2024-03-15 18:35:02.1475  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-15 18:35:02.1494 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/15 18:40:01] Executing command: file_deleter -d 3
+2024-03-15 18:40:01.6529  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-15 18:40:01.6555 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/15 18:45:01] Executing command: file_deleter -d 3
+2024-03-15 18:45:02.1021  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-15 18:45:02.1038 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/15 18:50:01] Executing command: file_deleter -d 3
+2024-03-15 18:50:01.4963  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-15 18:50:01.4981 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/15 18:55:01] Executing command: file_deleter -d 3
+2024-03-15 18:55:01.9254  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-15 18:55:01.9374 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/15 19:00:01] Executing command: file_deleter -d 3
+2024-03-15 19:00:01.3515  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-15 19:00:01.3562 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/15 19:05:01] Executing command: file_deleter -d 3
+2024-03-15 19:05:01.9367  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-15 19:05:01.9385 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/15 19:10:01] Executing command: file_deleter -d 3
+2024-03-15 19:10:01.3794  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-15 19:10:01.3817 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/15 19:15:01] Executing command: file_deleter -d 3
+2024-03-15 19:15:01.7818  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-15 19:15:01.7845 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/15 19:20:02] Executing command: file_deleter -d 3
+2024-03-15 19:20:02.3874  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-15 19:20:02.3893 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/15 19:25:01] Executing command: file_deleter -d 3
+2024-03-15 19:25:01.8025  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-15 19:25:01.8041 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/15 19:30:02] Executing command: file_deleter -d 3
+2024-03-15 19:30:02.2667  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-15 19:30:02.2708 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/15 19:35:01] Executing command: file_deleter -d 3
+2024-03-15 19:35:01.4069  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-15 19:35:01.4091 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/15 19:40:01] Executing command: file_deleter -d 3
+2024-03-15 19:40:01.9684  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-15 19:40:01.9702 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/15 19:45:01] Executing command: file_deleter -d 3
+2024-03-15 19:45:01.3713  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-15 19:45:01.3889 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/15 19:50:01] Executing command: file_deleter -d 3
+2024-03-15 19:50:01.8042  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-15 19:50:01.8077 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/15 19:55:02] Executing command: file_deleter -d 3
+2024-03-15 19:55:02.3521  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-15 19:55:02.3540 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/15 20:00:01] Executing command: file_deleter -d 3
+2024-03-15 20:00:01.9418  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-15 20:00:01.9489 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/15 20:05:01] Executing command: file_deleter -d 3
+2024-03-15 20:05:01.4151  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-15 20:05:01.4200 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/15 20:10:01] Executing command: file_deleter -d 3
+2024-03-15 20:10:01.8875  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-15 20:10:01.9045 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/15 20:15:01] Executing command: file_deleter -d 3
+2024-03-15 20:15:01.2849  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-15 20:15:01.2867 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/15 20:20:01] Executing command: file_deleter -d 3
+2024-03-15 20:20:01.9362  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-15 20:20:01.9415 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/15 20:25:01] Executing command: file_deleter -d 3
+2024-03-15 20:25:01.3182  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-15 20:25:01.3200 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/15 20:30:01] Executing command: file_deleter -d 3
+2024-03-15 20:30:01.7527  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-15 20:30:01.7546 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/15 20:35:02] Executing command: file_deleter -d 3
+2024-03-15 20:35:02.2703  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-15 20:35:02.2721 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/15 20:40:01] Executing command: file_deleter -d 3
+2024-03-15 20:40:01.9058  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-15 20:40:01.9076 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/15 20:45:01] Executing command: file_deleter -d 3
+2024-03-15 20:45:01.3089  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-15 20:45:01.3114 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/15 20:50:01] Executing command: file_deleter -d 3
+2024-03-15 20:50:01.7018  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-15 20:50:01.7042 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/15 20:55:01] Executing command: file_deleter -d 3
+2024-03-15 20:55:02.1411  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-15 20:55:02.1433 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/15 21:00:01] Executing command: file_deleter -d 3
+2024-03-15 21:00:01.5456  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-15 21:00:01.5471 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/15 21:05:01] Executing command: file_deleter -d 3
+2024-03-15 21:05:01.9622  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-15 21:05:01.9641 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/15 21:10:01] Executing command: file_deleter -d 3
+2024-03-15 21:10:01.4531  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-15 21:10:01.4562 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/15 21:15:01] Executing command: file_deleter -d 3
+2024-03-15 21:15:02.0223  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-15 21:15:02.0242 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/15 21:20:01] Executing command: file_deleter -d 3
+2024-03-15 21:20:01.4067  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-15 21:20:01.4083 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/15 21:25:01] Executing command: file_deleter -d 3
+2024-03-15 21:25:01.7182  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-15 21:25:01.7262 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/15 21:30:01] Executing command: file_deleter -d 3
+2024-03-15 21:30:02.2323  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-15 21:30:02.2342 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/15 21:35:01] Executing command: file_deleter -d 3
+2024-03-15 21:35:01.6828  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-15 21:35:01.6846 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/15 21:40:01] Executing command: file_deleter -d 3
+2024-03-15 21:40:02.2038  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-15 21:40:02.2056 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/15 21:45:01] Executing command: file_deleter -d 3
+2024-03-15 21:45:01.7617  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-15 21:45:01.7651 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/15 21:50:02] Executing command: file_deleter -d 3
+2024-03-15 21:50:02.3633  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-15 21:50:02.3762 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/15 21:55:01] Executing command: file_deleter -d 3
+2024-03-15 21:55:01.7369  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-15 21:55:01.7392 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/15 22:00:01] Executing command: file_deleter -d 3
+2024-03-15 22:00:02.1877  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-15 22:00:02.1896 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/15 22:05:01] Executing command: file_deleter -d 3
+2024-03-15 22:05:01.6443  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-15 22:05:01.6462 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/15 22:10:01] Executing command: file_deleter -d 3
+2024-03-15 22:10:02.1264  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-15 22:10:02.1280 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/15 22:15:01] Executing command: file_deleter -d 3
+2024-03-15 22:15:01.5599  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-15 22:15:01.5649 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/15 22:20:01] Executing command: file_deleter -d 3
+2024-03-15 22:20:02.0026  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-15 22:20:02.0042 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/15 22:25:01] Executing command: file_deleter -d 3
+2024-03-15 22:25:02.2191  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-15 22:25:02.2209 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/15 22:30:01] Executing command: file_deleter -d 3
+2024-03-15 22:30:01.6556  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-15 22:30:01.6829 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/15 22:35:01] Executing command: file_deleter -d 3
+2024-03-15 22:35:02.1895  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-15 22:35:02.1917 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/15 22:40:01] Executing command: file_deleter -d 3
+2024-03-15 22:40:01.6375  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-15 22:40:01.6396 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/15 22:45:01] Executing command: file_deleter -d 3
+2024-03-15 22:45:02.2181  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-15 22:45:02.2251 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/15 22:50:01] Executing command: file_deleter -d 3
+2024-03-15 22:50:01.6513  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-15 22:50:01.6686 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/15 22:55:01] Executing command: file_deleter -d 3
+2024-03-15 22:55:02.0782  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-15 22:55:02.0797 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/15 23:00:01] Executing command: file_deleter -d 3
+2024-03-15 23:00:01.5011  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-15 23:00:01.5028 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/15 23:05:01] Executing command: file_deleter -d 3
+2024-03-15 23:05:01.9481  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-15 23:05:01.9514 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/15 23:10:01] Executing command: file_deleter -d 3
+2024-03-15 23:10:01.3671  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-15 23:10:01.3691 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/15 23:15:01] Executing command: file_deleter -d 3
+2024-03-15 23:15:01.8334  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-15 23:15:01.8351 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/15 23:20:01] Executing command: file_deleter -d 3
+2024-03-15 23:20:01.4597  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-15 23:20:01.4629 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/15 23:25:01] Executing command: file_deleter -d 3
+2024-03-15 23:25:01.8869  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-15 23:25:01.8893 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/15 23:30:02] Executing command: file_deleter -d 3
+2024-03-15 23:30:02.3750  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-15 23:30:02.3812 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/15 23:35:01] Executing command: file_deleter -d 3
+2024-03-15 23:35:01.9613  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-15 23:35:01.9632 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/15 23:40:01] Executing command: file_deleter -d 3
+2024-03-15 23:40:01.3844  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-15 23:40:01.3861 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/15 23:45:01] Executing command: file_deleter -d 3
+2024-03-15 23:45:01.9749  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-15 23:45:01.9767 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/15 23:50:01] Executing command: file_deleter -d 3
+2024-03-15 23:50:01.4018  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-15 23:50:01.4034 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/15 23:55:01] Executing command: file_deleter -d 3
+2024-03-15 23:55:01.8593  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-15 23:55:01.8612 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 00:00:02] Executing command: file_deleter -d 3
+2024-03-16 00:00:02.9193  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 00:00:02.9211 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 00:05:01] Executing command: file_deleter -d 3
+2024-03-16 00:05:01.4199  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 00:05:01.4268 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 00:10:01] Executing command: file_deleter -d 3
+2024-03-16 00:10:01.8355  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 00:10:01.8371 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 00:15:02] Executing command: file_deleter -d 3
+2024-03-16 00:15:02.2431  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 00:15:02.2450 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 00:20:01] Executing command: file_deleter -d 3
+2024-03-16 00:20:02.0071  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 00:20:02.0089 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 00:25:01] Executing command: file_deleter -d 3
+2024-03-16 00:25:01.4177  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 00:25:01.4197 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 00:30:01] Executing command: file_deleter -d 3
+2024-03-16 00:30:01.8746  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 00:30:01.8765 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 00:35:02] Executing command: file_deleter -d 3
+2024-03-16 00:35:02.3511  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 00:35:02.3527 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 00:40:01] Executing command: file_deleter -d 3
+2024-03-16 00:40:01.8690  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 00:40:01.8708 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 00:45:01] Executing command: file_deleter -d 3
+2024-03-16 00:45:01.5230  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 00:45:01.5252 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 00:50:01] Executing command: file_deleter -d 3
+2024-03-16 00:50:02.0343  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 00:50:02.0382 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 00:55:01] Executing command: file_deleter -d 3
+2024-03-16 00:55:01.4621  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 00:55:01.4641 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 01:00:01] Executing command: file_deleter -d 3
+2024-03-16 01:00:01.9682  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 01:00:01.9852 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 01:05:01] Executing command: file_deleter -d 3
+2024-03-16 01:05:01.3976  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 01:05:01.3993 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 01:10:01] Executing command: file_deleter -d 3
+2024-03-16 01:10:01.8611  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 01:10:01.8630 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 01:15:02] Executing command: file_deleter -d 3
+2024-03-16 01:15:02.3148  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 01:15:02.3166 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 01:20:01] Executing command: file_deleter -d 3
+2024-03-16 01:20:01.9566  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 01:20:01.9600 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 01:25:01] Executing command: file_deleter -d 3
+2024-03-16 01:25:01.3701  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 01:25:01.3724 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 01:30:01] Executing command: file_deleter -d 3
+2024-03-16 01:30:01.8032  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 01:30:01.8051 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 01:35:02] Executing command: file_deleter -d 3
+2024-03-16 01:35:02.2832  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 01:35:02.2854 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 01:40:01] Executing command: file_deleter -d 3
+2024-03-16 01:40:01.7581  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 01:40:01.7599 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 01:45:02] Executing command: file_deleter -d 3
+2024-03-16 01:45:02.3923  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 01:45:02.3952 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 01:50:01] Executing command: file_deleter -d 3
+2024-03-16 01:50:01.8271  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 01:50:01.8290 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 01:55:02] Executing command: file_deleter -d 3
+2024-03-16 01:55:02.3064  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 01:55:02.3082 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 02:00:01] Executing command: file_deleter -d 3
+2024-03-16 02:00:01.7824  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 02:00:01.7842 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 02:05:02] Executing command: file_deleter -d 3
+2024-03-16 02:05:02.3173  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 02:05:02.3189 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 02:10:01] Executing command: file_deleter -d 3
+2024-03-16 02:10:01.8055  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 02:10:01.8072 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 02:15:02] Executing command: file_deleter -d 3
+2024-03-16 02:15:02.3449  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 02:15:02.3468 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 02:20:01] Executing command: file_deleter -d 3
+2024-03-16 02:20:01.7933  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 02:20:01.7949 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 02:25:01] Executing command: file_deleter -d 3
+2024-03-16 02:25:02.0659  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 02:25:02.0679 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 02:30:01] Executing command: file_deleter -d 3
+2024-03-16 02:30:01.5937  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 02:30:01.6250 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 02:35:01] Executing command: file_deleter -d 3
+2024-03-16 02:35:02.1976  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 02:35:02.1999 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 02:40:01] Executing command: file_deleter -d 3
+2024-03-16 02:40:01.6247  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 02:40:01.6267 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 02:45:01] Executing command: file_deleter -d 3
+2024-03-16 02:45:02.1468  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 02:45:02.1488 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 02:50:01] Executing command: file_deleter -d 3
+2024-03-16 02:50:01.5796  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 02:50:01.5833 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 02:55:01] Executing command: file_deleter -d 3
+2024-03-16 02:55:02.0615  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 02:55:02.0634 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 03:00:01] Executing command: file_deleter -d 3
+2024-03-16 03:00:01.4839  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 03:00:01.4872 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 03:05:01] Executing command: file_deleter -d 3
+2024-03-16 03:05:01.9737  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 03:05:01.9754 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 03:10:01] Executing command: file_deleter -d 3
+2024-03-16 03:10:01.3832  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 03:10:01.3850 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 03:15:01] Executing command: file_deleter -d 3
+2024-03-16 03:15:01.8120  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 03:15:01.8138 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 03:20:02] Executing command: file_deleter -d 3
+2024-03-16 03:20:02.2934  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 03:20:02.2959 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 03:25:01] Executing command: file_deleter -d 3
+2024-03-16 03:25:01.4788  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 03:25:01.4817 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 03:30:01] Executing command: file_deleter -d 3
+2024-03-16 03:30:01.9646  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 03:30:01.9664 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 03:35:01] Executing command: file_deleter -d 3
+2024-03-16 03:35:01.4079  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 03:35:01.4097 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 03:40:01] Executing command: file_deleter -d 3
+2024-03-16 03:40:01.8229  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 03:40:01.8248 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 03:45:01] Executing command: file_deleter -d 3
+2024-03-16 03:45:01.3881  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 03:45:01.3901 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 03:50:01] Executing command: file_deleter -d 3
+2024-03-16 03:50:01.8979  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 03:50:01.8995 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 03:55:01] Executing command: file_deleter -d 3
+2024-03-16 03:55:01.3269  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 03:55:01.3285 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 04:00:01] Executing command: file_deleter -d 3
+2024-03-16 04:00:01.7580  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 04:00:01.7704 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 04:05:01] Executing command: file_deleter -d 3
+2024-03-16 04:05:02.1995  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 04:05:02.2024 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 04:10:01] Executing command: file_deleter -d 3
+2024-03-16 04:10:01.7015  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 04:10:01.7048 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 04:15:02] Executing command: file_deleter -d 3
+2024-03-16 04:15:02.2560  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 04:15:02.2583 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 04:20:01] Executing command: file_deleter -d 3
+2024-03-16 04:20:01.7186  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 04:20:01.7203 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 04:25:01] Executing command: file_deleter -d 3
+2024-03-16 04:25:01.8850  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 04:25:01.8884 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 04:30:01] Executing command: file_deleter -d 3
+2024-03-16 04:30:01.2914  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 04:30:01.2931 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 04:35:01] Executing command: file_deleter -d 3
+2024-03-16 04:35:01.8292  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 04:35:01.8313 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 04:40:01] Executing command: file_deleter -d 3
+2024-03-16 04:40:01.2912  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 04:40:01.2929 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 04:45:01] Executing command: file_deleter -d 3
+2024-03-16 04:45:01.9441  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 04:45:01.9458 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 04:50:01] Executing command: file_deleter -d 3
+2024-03-16 04:50:01.2853  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 04:50:01.2875 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 04:55:01] Executing command: file_deleter -d 3
+2024-03-16 04:55:01.7318  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 04:55:01.7353 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 05:00:01] Executing command: file_deleter -d 3
+2024-03-16 05:00:02.2360  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 05:00:02.2444 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 05:05:01] Executing command: file_deleter -d 3
+2024-03-16 05:05:01.6163  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 05:05:01.6193 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 05:10:01] Executing command: file_deleter -d 3
+2024-03-16 05:10:02.1522  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 05:10:02.1545 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 05:15:01] Executing command: file_deleter -d 3
+2024-03-16 05:15:01.5573  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 05:15:01.5590 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 05:20:01] Executing command: file_deleter -d 3
+2024-03-16 05:20:02.1503  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 05:20:02.1521 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 05:25:01] Executing command: file_deleter -d 3
+2024-03-16 05:25:01.5584  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 05:25:01.5603 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 05:30:01] Executing command: file_deleter -d 3
+2024-03-16 05:30:02.0536  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 05:30:02.0556 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 05:35:01] Executing command: file_deleter -d 3
+2024-03-16 05:35:01.4651  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 05:35:01.4671 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 05:40:01] Executing command: file_deleter -d 3
+2024-03-16 05:40:02.0709  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 05:40:02.0728 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 05:45:01] Executing command: file_deleter -d 3
+2024-03-16 05:45:01.6490  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 05:45:01.6658 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 05:50:01] Executing command: file_deleter -d 3
+2024-03-16 05:50:02.1259  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 05:50:02.1278 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 05:55:01] Executing command: file_deleter -d 3
+2024-03-16 05:55:01.5136  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 05:55:01.5160 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 06:00:01] Executing command: file_deleter -d 3
+2024-03-16 06:00:02.1061  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 06:00:02.1281 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 06:05:01] Executing command: file_deleter -d 3
+2024-03-16 06:05:01.4426  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 06:05:01.4444 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 06:10:01] Executing command: file_deleter -d 3
+2024-03-16 06:10:02.0516  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 06:10:02.0574 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 06:15:01] Executing command: file_deleter -d 3
+2024-03-16 06:15:01.4240  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 06:15:01.4275 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 06:20:01] Executing command: file_deleter -d 3
+2024-03-16 06:20:01.8833  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 06:20:01.8850 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 06:25:01] Executing command: file_deleter -d 3
+2024-03-16 06:25:02.1991  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 06:25:02.2180 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 06:30:01] Executing command: file_deleter -d 3
+2024-03-16 06:30:01.6038  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 06:30:01.6057 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 06:35:01] Executing command: file_deleter -d 3
+2024-03-16 06:35:02.0228  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 06:35:02.0251 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 06:40:01] Executing command: file_deleter -d 3
+2024-03-16 06:40:01.5658  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 06:40:01.5677 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 06:45:01] Executing command: file_deleter -d 3
+2024-03-16 06:45:02.0967  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 06:45:02.0987 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 06:50:01] Executing command: file_deleter -d 3
+2024-03-16 06:50:01.6734  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 06:50:01.6895 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 06:55:02] Executing command: file_deleter -d 3
+2024-03-16 06:55:02.3334  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 06:55:02.3511 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 07:00:01] Executing command: file_deleter -d 3
+2024-03-16 07:00:01.8408  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 07:00:01.8430 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 07:05:02] Executing command: file_deleter -d 3
+2024-03-16 07:05:02.2714  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 07:05:02.3114 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 07:10:01] Executing command: file_deleter -d 3
+2024-03-16 07:10:01.7196  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 07:10:01.7250 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 07:15:01] Executing command: file_deleter -d 3
+2024-03-16 07:15:02.2131  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 07:15:02.2156 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 07:20:01] Executing command: file_deleter -d 3
+2024-03-16 07:20:01.6629  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 07:20:01.6645 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 07:25:01] Executing command: file_deleter -d 3
+2024-03-16 07:25:01.8593  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 07:25:01.8691 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 07:30:02] Executing command: file_deleter -d 3
+2024-03-16 07:30:02.4378  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 07:30:02.4395 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 07:35:01] Executing command: file_deleter -d 3
+2024-03-16 07:35:01.9210  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 07:35:01.9225 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 07:40:01] Executing command: file_deleter -d 3
+2024-03-16 07:40:01.3675  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 07:40:01.3699 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 07:45:01] Executing command: file_deleter -d 3
+2024-03-16 07:45:02.0294  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 07:45:02.0311 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 07:50:01] Executing command: file_deleter -d 3
+2024-03-16 07:50:01.4459  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 07:50:01.4480 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 07:55:01] Executing command: file_deleter -d 3
+2024-03-16 07:55:01.9371  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 07:55:01.9394 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 08:00:01] Executing command: file_deleter -d 3
+2024-03-16 08:00:01.3367  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 08:00:01.3389 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 08:05:01] Executing command: file_deleter -d 3
+2024-03-16 08:05:01.8100  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 08:05:01.8119 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 08:10:02] Executing command: file_deleter -d 3
+2024-03-16 08:10:02.2599  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 08:10:02.2624 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 08:15:01] Executing command: file_deleter -d 3
+2024-03-16 08:15:01.7493  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 08:15:01.7591 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 08:20:01] Executing command: file_deleter -d 3
+2024-03-16 08:20:02.1783  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 08:20:02.1801 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 08:25:01] Executing command: file_deleter -d 3
+2024-03-16 08:25:01.5060  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 08:25:01.5095 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 08:30:01] Executing command: file_deleter -d 3
+2024-03-16 08:30:01.9566  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 08:30:01.9584 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 08:35:01] Executing command: file_deleter -d 3
+2024-03-16 08:35:01.4092  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 08:35:01.4119 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 08:40:01] Executing command: file_deleter -d 3
+2024-03-16 08:40:01.8640  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 08:40:01.8659 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 08:45:01] Executing command: file_deleter -d 3
+2024-03-16 08:45:01.4497  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 08:45:01.4515 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 08:50:01] Executing command: file_deleter -d 3
+2024-03-16 08:50:01.9388  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 08:50:01.9517 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 08:55:01] Executing command: file_deleter -d 3
+2024-03-16 08:55:01.3591  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 08:55:01.3608 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 09:00:01] Executing command: file_deleter -d 3
+2024-03-16 09:00:01.8992  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 09:00:01.9010 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 09:05:01] Executing command: file_deleter -d 3
+2024-03-16 09:05:01.2900  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 09:05:01.2921 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 09:10:01] Executing command: file_deleter -d 3
+2024-03-16 09:10:01.7006  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 09:10:01.7035 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 09:15:02] Executing command: file_deleter -d 3
+2024-03-16 09:15:02.3029  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 09:15:02.3047 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 09:20:01] Executing command: file_deleter -d 3
+2024-03-16 09:20:02.1248  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 09:20:02.1324 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 09:25:01] Executing command: file_deleter -d 3
+2024-03-16 09:25:01.5004  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 09:25:01.5024 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 09:30:01] Executing command: file_deleter -d 3
+2024-03-16 09:30:02.0254  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 09:30:02.0272 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 09:35:01] Executing command: file_deleter -d 3
+2024-03-16 09:35:01.5118  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 09:35:01.5136 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 09:40:01] Executing command: file_deleter -d 3
+2024-03-16 09:40:02.0601  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 09:40:02.0621 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 09:45:01] Executing command: file_deleter -d 3
+2024-03-16 09:45:01.6177  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 09:45:01.6265 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 09:50:01] Executing command: file_deleter -d 3
+2024-03-16 09:50:02.1157  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 09:50:02.1175 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 09:55:01] Executing command: file_deleter -d 3
+2024-03-16 09:55:01.5238  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 09:55:01.5255 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 10:00:01] Executing command: file_deleter -d 3
+2024-03-16 10:00:02.0682  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 10:00:02.0703 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 10:05:01] Executing command: file_deleter -d 3
+2024-03-16 10:05:01.4556  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 10:05:01.4572 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 10:10:01] Executing command: file_deleter -d 3
+2024-03-16 10:10:01.9435  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 10:10:01.9456 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 10:15:01] Executing command: file_deleter -d 3
+2024-03-16 10:15:01.3741  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 10:15:01.3759 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 10:20:01] Executing command: file_deleter -d 3
+2024-03-16 10:20:01.7819  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 10:20:01.7849 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 10:25:01] Executing command: file_deleter -d 3
+2024-03-16 10:25:02.1858  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 10:25:02.1876 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 10:30:01] Executing command: file_deleter -d 3
+2024-03-16 10:30:01.6613  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 10:30:01.6633 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 10:35:01] Executing command: file_deleter -d 3
+2024-03-16 10:35:02.0883  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 10:35:02.0899 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 10:40:01] Executing command: file_deleter -d 3
+2024-03-16 10:40:01.6264  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 10:40:01.6299 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 10:45:01] Executing command: file_deleter -d 3
+2024-03-16 10:45:02.2000  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 10:45:02.2022 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 10:50:01] Executing command: file_deleter -d 3
+2024-03-16 10:50:01.6328  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 10:50:01.6363 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 10:55:01] Executing command: file_deleter -d 3
+2024-03-16 10:55:02.0985  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 10:55:02.1003 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 11:00:01] Executing command: file_deleter -d 3
+2024-03-16 11:00:01.5386  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 11:00:01.5403 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 11:05:01] Executing command: file_deleter -d 3
+2024-03-16 11:05:02.0153  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 11:05:02.0175 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 11:10:01] Executing command: file_deleter -d 3
+2024-03-16 11:10:01.4361  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 11:10:01.4389 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 11:15:01] Executing command: file_deleter -d 3
+2024-03-16 11:15:01.8647  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 11:15:01.8667 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 11:20:02] Executing command: file_deleter -d 3
+2024-03-16 11:20:02.4536  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 11:20:02.4553 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 11:25:01] Executing command: file_deleter -d 3
+2024-03-16 11:25:01.5880  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 11:25:01.5898 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 11:30:01] Executing command: file_deleter -d 3
+2024-03-16 11:30:02.0321  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 11:30:02.0350 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 11:35:01] Executing command: file_deleter -d 3
+2024-03-16 11:35:01.4737  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 11:35:01.4755 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 11:40:01] Executing command: file_deleter -d 3
+2024-03-16 11:40:02.1331  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 11:40:02.1428 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 11:45:01] Executing command: file_deleter -d 3
+2024-03-16 11:45:01.7221  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 11:45:01.7283 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 11:50:01] Executing command: file_deleter -d 3
+2024-03-16 11:50:02.1452  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 11:50:02.1479 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 11:55:01] Executing command: file_deleter -d 3
+2024-03-16 11:55:01.5044  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 11:55:01.5063 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 12:00:01] Executing command: file_deleter -d 3
+2024-03-16 12:00:01.9692  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 12:00:01.9714 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 12:05:01] Executing command: file_deleter -d 3
+2024-03-16 12:05:01.4036  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 12:05:01.4054 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 12:10:01] Executing command: file_deleter -d 3
+2024-03-16 12:10:01.8373  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 12:10:01.8391 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 12:15:02] Executing command: file_deleter -d 3
+2024-03-16 12:15:02.2559  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 12:15:02.2611 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 12:20:01] Executing command: file_deleter -d 3
+2024-03-16 12:20:01.7218  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 12:20:01.7236 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 12:25:01] Executing command: file_deleter -d 3
+2024-03-16 12:25:02.1548  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 12:25:02.1570 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 12:30:01] Executing command: file_deleter -d 3
+2024-03-16 12:30:01.5412  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 12:30:01.5428 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 12:35:01] Executing command: file_deleter -d 3
+2024-03-16 12:35:02.0274  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 12:35:02.0293 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 12:40:01] Executing command: file_deleter -d 3
+2024-03-16 12:40:01.4676  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 12:40:01.4694 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 12:45:01] Executing command: file_deleter -d 3
+2024-03-16 12:45:02.0009  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 12:45:02.0026 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 12:50:01] Executing command: file_deleter -d 3
+2024-03-16 12:50:01.4021  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 12:50:01.4049 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 12:55:01] Executing command: file_deleter -d 3
+2024-03-16 12:55:01.8464  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 12:55:01.8505 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 13:00:02] Executing command: file_deleter -d 3
+2024-03-16 13:00:02.4045  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 13:00:02.4063 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 13:05:01] Executing command: file_deleter -d 3
+2024-03-16 13:05:01.8208  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 13:05:01.8230 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 13:10:02] Executing command: file_deleter -d 3
+2024-03-16 13:10:02.3158  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 13:10:02.3182 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 13:15:01] Executing command: file_deleter -d 3
+2024-03-16 13:15:01.7515  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 13:15:01.7547 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 13:20:01] Executing command: file_deleter -d 3
+2024-03-16 13:20:02.1531  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 13:20:02.1551 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 13:25:01] Executing command: file_deleter -d 3
+2024-03-16 13:25:01.4796  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 13:25:01.4813 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 13:30:01] Executing command: file_deleter -d 3
+2024-03-16 13:30:01.9024  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 13:30:01.9131 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 13:35:01] Executing command: file_deleter -d 3
+2024-03-16 13:35:01.3333  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 13:35:01.3353 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 13:40:01] Executing command: file_deleter -d 3
+2024-03-16 13:40:01.7657  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 13:40:01.7684 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 13:45:02] Executing command: file_deleter -d 3
+2024-03-16 13:45:02.3431  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 13:45:02.3450 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 13:50:01] Executing command: file_deleter -d 3
+2024-03-16 13:50:01.7690  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 13:50:01.8016 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 13:55:02] Executing command: file_deleter -d 3
+2024-03-16 13:55:02.2494  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 13:55:02.2533 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 14:00:01] Executing command: file_deleter -d 3
+2024-03-16 14:00:01.6429  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 14:00:01.6444 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 14:05:01] Executing command: file_deleter -d 3
+2024-03-16 14:05:02.0811  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 14:05:02.0827 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 14:10:01] Executing command: file_deleter -d 3
+2024-03-16 14:10:01.5344  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 14:10:01.5358 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 14:15:01] Executing command: file_deleter -d 3
+2024-03-16 14:15:01.9675  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 14:15:01.9709 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 14:20:01] Executing command: file_deleter -d 3
+2024-03-16 14:20:01.3391  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 14:20:01.3408 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 14:25:01] Executing command: file_deleter -d 3
+2024-03-16 14:25:01.7431  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 14:25:01.7474 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 14:30:01] Executing command: file_deleter -d 3
+2024-03-16 14:30:01.5836  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 14:30:01.5854 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 14:35:01] Executing command: file_deleter -d 3
+2024-03-16 14:35:02.0441  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 14:35:02.0460 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 14:40:01] Executing command: file_deleter -d 3
+2024-03-16 14:40:01.4701  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 14:40:01.4788 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 14:45:01] Executing command: file_deleter -d 3
+2024-03-16 14:45:02.2018  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 14:45:02.2037 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 14:50:01] Executing command: file_deleter -d 3
+2024-03-16 14:50:01.6073  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 14:50:01.6092 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 14:55:01] Executing command: file_deleter -d 3
+2024-03-16 14:55:02.0771  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 14:55:02.0789 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 15:00:01] Executing command: file_deleter -d 3
+2024-03-16 15:00:01.4739  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 15:00:01.4795 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 15:05:01] Executing command: file_deleter -d 3
+2024-03-16 15:05:01.8771  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 15:05:01.8841 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 15:10:01] Executing command: file_deleter -d 3
+2024-03-16 15:10:01.3288  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 15:10:01.3311 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 15:15:01] Executing command: file_deleter -d 3
+2024-03-16 15:15:01.7361  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 15:15:01.7493 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 15:20:01] Executing command: file_deleter -d 3
+2024-03-16 15:20:02.2041  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 15:20:02.2057 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 15:25:01] Executing command: file_deleter -d 3
+2024-03-16 15:25:01.3940  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 15:25:01.3957 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 15:30:01] Executing command: file_deleter -d 3
+2024-03-16 15:30:01.8038  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 15:30:01.8058 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 15:35:01] Executing command: file_deleter -d 3
+2024-03-16 15:35:02.1496  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 15:35:02.1553 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 15:40:01] Executing command: file_deleter -d 3
+2024-03-16 15:40:01.5643  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 15:40:01.5659 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 15:45:02] Executing command: file_deleter -d 3
+2024-03-16 15:45:02.3085  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 15:45:02.3103 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 15:50:01] Executing command: file_deleter -d 3
+2024-03-16 15:50:01.7631  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 15:50:01.7649 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 15:55:02] Executing command: file_deleter -d 3
+2024-03-16 15:55:02.3656  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 15:55:02.3684 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 16:00:01] Executing command: file_deleter -d 3
+2024-03-16 16:00:01.7958  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 16:00:01.7977 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 16:05:02] Executing command: file_deleter -d 3
+2024-03-16 16:05:02.3110  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 16:05:02.3128 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 16:10:01] Executing command: file_deleter -d 3
+2024-03-16 16:10:01.7907  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 16:10:01.7926 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 16:15:02] Executing command: file_deleter -d 3
+2024-03-16 16:15:02.2408  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 16:15:02.2443 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 16:20:01] Executing command: file_deleter -d 3
+2024-03-16 16:20:01.6509  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 16:20:01.6529 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 16:25:01] Executing command: file_deleter -d 3
+2024-03-16 16:25:01.8899  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 16:25:01.8916 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 16:30:01] Executing command: file_deleter -d 3
+2024-03-16 16:30:01.3025  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 16:30:01.3044 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 16:35:01] Executing command: file_deleter -d 3
+2024-03-16 16:35:01.7180  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 16:35:01.7198 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 16:40:02] Executing command: file_deleter -d 3
+2024-03-16 16:40:02.2825  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 16:40:02.2842 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 16:45:01] Executing command: file_deleter -d 3
+2024-03-16 16:45:01.8351  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 16:45:01.8369 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 16:50:02] Executing command: file_deleter -d 3
+2024-03-16 16:50:02.3221  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 16:50:02.3242 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 16:55:01] Executing command: file_deleter -d 3
+2024-03-16 16:55:01.7923  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 16:55:01.7947 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 17:00:02] Executing command: file_deleter -d 3
+2024-03-16 17:00:02.3094  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 17:00:02.3145 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 17:05:01] Executing command: file_deleter -d 3
+2024-03-16 17:05:01.7901  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 17:05:01.7930 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 17:10:02] Executing command: file_deleter -d 3
+2024-03-16 17:10:02.5317  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 17:10:02.5363 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 17:15:01] Executing command: file_deleter -d 3
+2024-03-16 17:15:02.0158  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 17:15:02.0191 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 17:20:01] Executing command: file_deleter -d 3
+2024-03-16 17:20:01.4022  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 17:20:01.4176 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 17:25:01] Executing command: file_deleter -d 3
+2024-03-16 17:25:01.8069  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 17:25:01.8113 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 17:30:01] Executing command: file_deleter -d 3
+2024-03-16 17:30:01.6434  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 17:30:01.6453 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 17:35:01] Executing command: file_deleter -d 3
+2024-03-16 17:35:02.0473  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 17:35:02.0495 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 17:40:01] Executing command: file_deleter -d 3
+2024-03-16 17:40:01.5607  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 17:40:01.5908 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 17:45:01] Executing command: file_deleter -d 3
+2024-03-16 17:45:01.9725  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 17:45:01.9751 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 17:50:01] Executing command: file_deleter -d 3
+2024-03-16 17:50:01.5190  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 17:50:01.5208 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 17:55:01] Executing command: file_deleter -d 3
+2024-03-16 17:55:02.0447  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 17:55:02.0468 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 18:00:01] Executing command: file_deleter -d 3
+2024-03-16 18:00:01.5290  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 18:00:01.5309 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 18:05:01] Executing command: file_deleter -d 3
+2024-03-16 18:05:01.9714  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 18:05:01.9814 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 18:10:01] Executing command: file_deleter -d 3
+2024-03-16 18:10:01.3550  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 18:10:01.3569 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 18:15:01] Executing command: file_deleter -d 3
+2024-03-16 18:15:01.8373  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 18:15:01.8392 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 18:20:02] Executing command: file_deleter -d 3
+2024-03-16 18:20:02.2731  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 18:20:02.2749 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 18:25:01] Executing command: file_deleter -d 3
+2024-03-16 18:25:01.7651  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 18:25:01.7671 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 18:30:01] Executing command: file_deleter -d 3
+2024-03-16 18:30:01.5849  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 18:30:01.5867 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 18:35:01] Executing command: file_deleter -d 3
+2024-03-16 18:35:02.0862  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 18:35:02.0893 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 18:40:01] Executing command: file_deleter -d 3
+2024-03-16 18:40:01.5060  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 18:40:01.5092 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 18:45:01] Executing command: file_deleter -d 3
+2024-03-16 18:45:02.0438  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 18:45:02.0461 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 18:50:01] Executing command: file_deleter -d 3
+2024-03-16 18:50:01.5464  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 18:50:01.5489 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 18:55:01] Executing command: file_deleter -d 3
+2024-03-16 18:55:02.0177  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 18:55:02.0199 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 19:00:01] Executing command: file_deleter -d 3
+2024-03-16 19:00:01.4756  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 19:00:01.4787 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 19:05:01] Executing command: file_deleter -d 3
+2024-03-16 19:05:01.9382  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 19:05:01.9507 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 19:10:01] Executing command: file_deleter -d 3
+2024-03-16 19:10:01.3893  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 19:10:01.3914 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 19:15:01] Executing command: file_deleter -d 3
+2024-03-16 19:15:01.7962  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 19:15:01.7992 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 19:20:02] Executing command: file_deleter -d 3
+2024-03-16 19:20:02.2814  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 19:20:02.2832 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 19:25:01] Executing command: file_deleter -d 3
+2024-03-16 19:25:01.4017  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 19:25:01.4042 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 19:30:01] Executing command: file_deleter -d 3
+2024-03-16 19:30:01.8818  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 19:30:01.8835 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 19:35:02] Executing command: file_deleter -d 3
+2024-03-16 19:35:02.3564  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 19:35:02.3583 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 19:40:01] Executing command: file_deleter -d 3
+2024-03-16 19:40:01.9045  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 19:40:01.9063 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 19:45:01] Executing command: file_deleter -d 3
+2024-03-16 19:45:01.3053  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 19:45:01.3070 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 19:50:01] Executing command: file_deleter -d 3
+2024-03-16 19:50:01.9733  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 19:50:01.9750 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 19:55:01] Executing command: file_deleter -d 3
+2024-03-16 19:55:01.3776  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 19:55:01.3793 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 20:00:01] Executing command: file_deleter -d 3
+2024-03-16 20:00:01.9812  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 20:00:01.9831 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 20:05:01] Executing command: file_deleter -d 3
+2024-03-16 20:05:01.3888  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 20:05:01.3913 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 20:10:01] Executing command: file_deleter -d 3
+2024-03-16 20:10:01.8335  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 20:10:01.8353 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 20:15:02] Executing command: file_deleter -d 3
+2024-03-16 20:15:02.2621  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 20:15:02.2641 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 20:20:01] Executing command: file_deleter -d 3
+2024-03-16 20:20:01.6580  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 20:20:01.6602 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 20:25:01] Executing command: file_deleter -d 3
+2024-03-16 20:25:01.9629  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 20:25:01.9657 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 20:30:01] Executing command: file_deleter -d 3
+2024-03-16 20:30:01.3573  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 20:30:01.3626 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 20:35:01] Executing command: file_deleter -d 3
+2024-03-16 20:35:01.8499  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 20:35:01.8515 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 20:40:01] Executing command: file_deleter -d 3
+2024-03-16 20:40:01.2868  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 20:40:01.2890 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 20:45:01] Executing command: file_deleter -d 3
+2024-03-16 20:45:01.6843  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 20:45:01.6861 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 20:50:01] Executing command: file_deleter -d 3
+2024-03-16 20:50:02.2228  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 20:50:02.2245 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 20:55:01] Executing command: file_deleter -d 3
+2024-03-16 20:55:01.6200  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 20:55:01.6242 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 21:00:01] Executing command: file_deleter -d 3
+2024-03-16 21:00:02.2038  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 21:00:02.2058 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 21:05:01] Executing command: file_deleter -d 3
+2024-03-16 21:05:01.5945  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 21:05:01.5962 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 21:10:01] Executing command: file_deleter -d 3
+2024-03-16 21:10:02.0429  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 21:10:02.0447 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 21:15:01] Executing command: file_deleter -d 3
+2024-03-16 21:15:01.5208  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 21:15:01.5223 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 21:20:01] Executing command: file_deleter -d 3
+2024-03-16 21:20:02.0210  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 21:20:02.0312 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 21:25:02] Executing command: file_deleter -d 3
+2024-03-16 21:25:02.3151  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 21:25:02.3172 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 21:30:01] Executing command: file_deleter -d 3
+2024-03-16 21:30:01.7860  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 21:30:01.8004 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 21:35:02] Executing command: file_deleter -d 3
+2024-03-16 21:35:02.2480  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 21:35:02.2498 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 21:40:01] Executing command: file_deleter -d 3
+2024-03-16 21:40:01.6777  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 21:40:01.6843 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 21:45:01] Executing command: file_deleter -d 3
+2024-03-16 21:45:02.1056  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 21:45:02.1073 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 21:50:01] Executing command: file_deleter -d 3
+2024-03-16 21:50:01.5986  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 21:50:01.6008 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 21:55:01] Executing command: file_deleter -d 3
+2024-03-16 21:55:02.1009  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 21:55:02.1027 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 22:00:01] Executing command: file_deleter -d 3
+2024-03-16 22:00:01.4731  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 22:00:01.4748 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 22:05:01] Executing command: file_deleter -d 3
+2024-03-16 22:05:01.9089  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 22:05:01.9107 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 22:10:01] Executing command: file_deleter -d 3
+2024-03-16 22:10:01.3544  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 22:10:01.3567 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 22:15:01] Executing command: file_deleter -d 3
+2024-03-16 22:15:01.8476  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 22:15:01.8494 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 22:20:02] Executing command: file_deleter -d 3
+2024-03-16 22:20:02.3445  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 22:20:02.3463 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 22:25:01] Executing command: file_deleter -d 3
+2024-03-16 22:25:01.7864  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 22:25:01.7915 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 22:30:01] Executing command: file_deleter -d 3
+2024-03-16 22:30:01.4383  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 22:30:01.4409 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 22:35:01] Executing command: file_deleter -d 3
+2024-03-16 22:35:01.8642  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 22:35:01.8660 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 22:40:01] Executing command: file_deleter -d 3
+2024-03-16 22:40:01.3015  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 22:40:01.3033 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 22:45:01] Executing command: file_deleter -d 3
+2024-03-16 22:45:01.7586  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 22:45:01.7604 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 22:50:02] Executing command: file_deleter -d 3
+2024-03-16 22:50:02.2923  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 22:50:02.3039 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 22:55:01] Executing command: file_deleter -d 3
+2024-03-16 22:55:01.6879  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 22:55:01.6902 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 23:00:01] Executing command: file_deleter -d 3
+2024-03-16 23:00:02.1315  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 23:00:02.1334 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 23:05:01] Executing command: file_deleter -d 3
+2024-03-16 23:05:01.5270  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 23:05:01.5293 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 23:10:01] Executing command: file_deleter -d 3
+2024-03-16 23:10:01.9651  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 23:10:01.9744 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 23:15:01] Executing command: file_deleter -d 3
+2024-03-16 23:15:01.4078  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 23:15:01.4096 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 23:20:01] Executing command: file_deleter -d 3
+2024-03-16 23:20:01.9709  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 23:20:01.9745 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 23:25:01] Executing command: file_deleter -d 3
+2024-03-16 23:25:01.3534  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 23:25:01.3553 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 23:30:01] Executing command: file_deleter -d 3
+2024-03-16 23:30:01.8219  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 23:30:01.8237 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 23:35:02] Executing command: file_deleter -d 3
+2024-03-16 23:35:02.3644  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 23:35:02.3660 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 23:40:01] Executing command: file_deleter -d 3
+2024-03-16 23:40:01.8409  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 23:40:01.8433 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 23:45:02] Executing command: file_deleter -d 3
+2024-03-16 23:45:02.2747  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 23:45:02.2763 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 23:50:01] Executing command: file_deleter -d 3
+2024-03-16 23:50:01.7861  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 23:50:01.8020 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 23:55:02] Executing command: file_deleter -d 3
+2024-03-16 23:55:02.2705  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 23:55:02.2722 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/17 00:00:01] Executing command: file_deleter -d 3
+2024-03-17 00:00:02.1180  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-17 00:00:02.1562 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/17 00:05:01] Executing command: file_deleter -d 3
+2024-03-17 00:05:01.5110  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-17 00:05:01.5129 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/17 00:10:01] Executing command: file_deleter -d 3
+2024-03-17 00:10:02.0095  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-17 00:10:02.0112 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/17 00:15:01] Executing command: file_deleter -d 3
+2024-03-17 00:15:01.4298  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-17 00:15:01.4313 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/17 00:20:01] Executing command: file_deleter -d 3
+2024-03-17 00:20:02.1759  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-17 00:20:02.1794 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/17 00:25:01] Executing command: file_deleter -d 3
+2024-03-17 00:25:01.6144  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-17 00:25:01.6166 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/17 00:30:01] Executing command: file_deleter -d 3
+2024-03-17 00:30:02.0352  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-17 00:30:02.0370 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/17 00:35:01] Executing command: file_deleter -d 3
+2024-03-17 00:35:01.5059  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-17 00:35:01.5165 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/17 00:40:01] Executing command: file_deleter -d 3
+2024-03-17 00:40:02.0299  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-17 00:40:02.0382 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/17 00:45:01] Executing command: file_deleter -d 3
+2024-03-17 00:45:01.5129  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-17 00:45:01.5147 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/17 00:50:01] Executing command: file_deleter -d 3
+2024-03-17 00:50:01.9910  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-17 00:50:02.0171 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/17 00:55:01] Executing command: file_deleter -d 3
+2024-03-17 00:55:01.5248  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-17 00:55:01.5265 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/17 01:00:01] Executing command: file_deleter -d 3
+2024-03-17 01:00:02.0376  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-17 01:00:02.0430 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/17 01:05:01] Executing command: file_deleter -d 3
+2024-03-17 01:05:01.4331  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-17 01:05:01.4348 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/17 01:10:01] Executing command: file_deleter -d 3
+2024-03-17 01:10:01.8979  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-17 01:10:01.8997 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/17 01:15:01] Executing command: file_deleter -d 3
+2024-03-17 01:15:01.3077  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-17 01:15:01.3095 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/17 01:20:01] Executing command: file_deleter -d 3
+2024-03-17 01:20:01.7609  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-17 01:20:01.7629 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/17 01:25:01] Executing command: file_deleter -d 3
+2024-03-17 01:25:02.1858  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-17 01:25:02.1878 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/17 01:30:01] Executing command: file_deleter -d 3
+2024-03-17 01:30:02.1472  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-17 01:30:02.1492 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/17 01:35:01] Executing command: file_deleter -d 3
+2024-03-17 01:35:01.5839  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-17 01:35:01.5907 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/17 01:40:01] Executing command: file_deleter -d 3
+2024-03-17 01:40:02.1147  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-17 01:40:02.1165 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/17 01:45:01] Executing command: file_deleter -d 3
+2024-03-17 01:45:01.5202  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-17 01:45:01.5218 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/17 01:50:01] Executing command: file_deleter -d 3
+2024-03-17 01:50:01.9086  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-17 01:50:01.9108 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/17 01:55:01] Executing command: file_deleter -d 3
+2024-03-17 01:55:01.4351  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-17 01:55:01.4369 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/17 02:00:01] Executing command: file_deleter -d 3
+2024-03-17 02:00:01.9056  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-17 02:00:01.9083 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/17 02:05:02] Executing command: file_deleter -d 3
+2024-03-17 02:05:02.4709  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-17 02:05:02.4738 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/17 02:10:01] Executing command: file_deleter -d 3
+2024-03-17 02:10:01.9112  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-17 02:10:01.9158 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/17 02:15:01] Executing command: file_deleter -d 3
+2024-03-17 02:15:01.4003  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-17 02:15:01.4021 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/17 02:20:01] Executing command: file_deleter -d 3
+2024-03-17 02:20:01.8242  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-17 02:20:01.8258 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/17 02:25:01] Executing command: file_deleter -d 3
+2024-03-17 02:25:02.0989  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-17 02:25:02.1011 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/17 02:30:01] Executing command: file_deleter -d 3
+2024-03-17 02:30:01.5132  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-17 02:30:01.5150 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/17 02:35:01] Executing command: file_deleter -d 3
+2024-03-17 02:35:01.9352  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-17 02:35:01.9371 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/17 02:40:01] Executing command: file_deleter -d 3
+2024-03-17 02:40:01.3518  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-17 02:40:01.3540 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/17 02:45:01] Executing command: file_deleter -d 3
+2024-03-17 02:45:01.7921  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-17 02:45:01.7947 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/17 02:50:02] Executing command: file_deleter -d 3
+2024-03-17 02:50:02.3265  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-17 02:50:02.3313 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/17 02:55:01] Executing command: file_deleter -d 3
+2024-03-17 02:55:01.8748  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-17 02:55:01.8769 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/17 03:00:01] Executing command: file_deleter -d 3
+2024-03-17 03:00:01.3095  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-17 03:00:01.3139 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/17 03:05:01] Executing command: file_deleter -d 3
+2024-03-17 03:05:01.7281  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-17 03:05:01.7306 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/17 03:10:01] Executing command: file_deleter -d 3
+2024-03-17 03:10:02.2321  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-17 03:10:02.2372 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/17 03:15:01] Executing command: file_deleter -d 3
+2024-03-17 03:15:01.6695  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-17 03:15:01.6715 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/17 03:20:02] Executing command: file_deleter -d 3
+2024-03-17 03:20:02.2502  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-17 03:20:02.2894 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/17 03:25:01] Executing command: file_deleter -d 3
+2024-03-17 03:25:01.3635  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-17 03:25:01.3659 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/17 03:30:01] Executing command: file_deleter -d 3
+2024-03-17 03:30:01.8275  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-17 03:30:01.8295 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/17 03:35:02] Executing command: file_deleter -d 3
+2024-03-17 03:35:02.2880  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-17 03:35:02.3012 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/17 03:40:01] Executing command: file_deleter -d 3
+2024-03-17 03:40:01.7878  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-17 03:40:01.7895 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/17 03:45:02] Executing command: file_deleter -d 3
+2024-03-17 03:45:02.2992  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-17 03:45:02.3010 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/17 03:50:01] Executing command: file_deleter -d 3
+2024-03-17 03:50:01.7900  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-17 03:50:01.7920 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/17 03:55:02] Executing command: file_deleter -d 3
+2024-03-17 03:55:02.2490  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-17 03:55:02.2505 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/17 04:00:01] Executing command: file_deleter -d 3
+2024-03-17 04:00:01.8172  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-17 04:00:01.8192 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/17 04:05:02] Executing command: file_deleter -d 3
+2024-03-17 04:05:02.4372  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-17 04:05:02.4389 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/17 04:10:01] Executing command: file_deleter -d 3
+2024-03-17 04:10:01.9353  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-17 04:10:01.9371 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/17 04:15:01] Executing command: file_deleter -d 3
+2024-03-17 04:15:01.3395  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-17 04:15:01.3412 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/17 04:20:01] Executing command: file_deleter -d 3
+2024-03-17 04:20:01.7804  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-17 04:20:01.7821 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/17 04:25:01] Executing command: file_deleter -d 3
+2024-03-17 04:25:02.0672  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-17 04:25:02.0690 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/17 04:30:01] Executing command: file_deleter -d 3
+2024-03-17 04:30:01.4870  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-17 04:30:01.4889 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/17 04:35:01] Executing command: file_deleter -d 3
+2024-03-17 04:35:01.9437  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-17 04:35:01.9454 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/17 04:40:01] Executing command: file_deleter -d 3
+2024-03-17 04:40:01.4589  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-17 04:40:01.4617 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/17 04:45:01] Executing command: file_deleter -d 3
+2024-03-17 04:45:02.0903  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-17 04:45:02.1016 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/17 04:50:01] Executing command: file_deleter -d 3
+2024-03-17 04:50:01.5087  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-17 04:50:01.5105 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/17 04:55:01] Executing command: file_deleter -d 3
+2024-03-17 04:55:02.0450  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-17 04:55:02.0473 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/17 05:00:01] Executing command: file_deleter -d 3
+2024-03-17 05:00:01.4738  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-17 05:00:01.4756 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/17 05:05:01] Executing command: file_deleter -d 3
+2024-03-17 05:05:01.9756  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-17 05:05:01.9819 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/17 05:10:01] Executing command: file_deleter -d 3
+2024-03-17 05:10:01.4924  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-17 05:10:01.4945 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/17 05:15:01] Executing command: file_deleter -d 3
+2024-03-17 05:15:01.9224  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-17 05:15:01.9243 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/17 05:20:01] Executing command: file_deleter -d 3
+2024-03-17 05:20:01.5500  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-17 05:20:01.5515 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/17 05:25:01] Executing command: file_deleter -d 3
+2024-03-17 05:25:01.9987  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-17 05:25:02.0008 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/17 05:30:01] Executing command: file_deleter -d 3
+2024-03-17 05:30:01.3899  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-17 05:30:01.3922 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/17 05:35:01] Executing command: file_deleter -d 3
+2024-03-17 05:35:01.8692  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-17 05:35:01.8730 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/17 05:40:02] Executing command: file_deleter -d 3
+2024-03-17 05:40:02.3725  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-17 05:40:02.3743 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/17 05:45:01] Executing command: file_deleter -d 3
+2024-03-17 05:45:01.7776  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-17 05:45:01.7796 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/17 05:50:02] Executing command: file_deleter -d 3
+2024-03-17 05:50:02.2294  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-17 05:50:02.2312 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/17 05:55:01] Executing command: file_deleter -d 3
+2024-03-17 05:55:01.6263  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-17 05:55:01.6280 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/17 06:00:01] Executing command: file_deleter -d 3
+2024-03-17 06:00:02.0460  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-17 06:00:02.0477 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/17 06:05:01] Executing command: file_deleter -d 3
+2024-03-17 06:05:01.5672  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-17 06:05:01.5697 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/17 06:10:01] Executing command: file_deleter -d 3
+2024-03-17 06:10:02.0269  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-17 06:10:02.0314 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/17 06:15:01] Executing command: file_deleter -d 3
+2024-03-17 06:15:01.4254  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-17 06:15:01.4271 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/17 06:20:01] Executing command: file_deleter -d 3
+2024-03-17 06:20:02.2214  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-17 06:20:02.2272 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/17 06:25:01] Executing command: file_deleter -d 3
+2024-03-17 06:25:01.8064  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-17 06:25:01.8122 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/17 06:30:02] Executing command: file_deleter -d 3
+2024-03-17 06:30:02.3380  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-17 06:30:02.3397 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/17 06:35:01] Executing command: file_deleter -d 3
+2024-03-17 06:35:01.8454  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-17 06:35:01.8476 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/17 06:40:02] Executing command: file_deleter -d 3
+2024-03-17 06:40:02.4145  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-17 06:40:02.4164 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/17 06:45:01] Executing command: file_deleter -d 3
+2024-03-17 06:45:01.8489  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-17 06:45:01.8507 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/17 06:50:02] Executing command: file_deleter -d 3
+2024-03-17 06:50:02.4099  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-17 06:50:02.4116 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/17 06:55:01] Executing command: file_deleter -d 3
+2024-03-17 06:55:01.8702  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-17 06:55:01.8723 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/17 07:00:02] Executing command: file_deleter -d 3
+2024-03-17 07:00:02.3768  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-17 07:00:02.3807 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/17 07:05:01] Executing command: file_deleter -d 3
+2024-03-17 07:05:01.9421  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-17 07:05:01.9441 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/17 07:10:01] Executing command: file_deleter -d 3
+2024-03-17 07:10:01.3559  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-17 07:10:01.3577 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/17 07:15:01] Executing command: file_deleter -d 3
+2024-03-17 07:15:01.7771  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-17 07:15:01.7796 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/17 07:20:02] Executing command: file_deleter -d 3
+2024-03-17 07:20:02.4813  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-17 07:20:02.4842 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/17 07:25:01] Executing command: file_deleter -d 3
+2024-03-17 07:25:01.5452  Starting
+GOT STOP SIGNAL
+2024-03-17 08:12:07.7404  Quitting due to SIGHUP
+[2024/03/17 08:12:10] Executing command: file_deleter -d 3
+2024-03-17 08:12:10.8437  Starting
+GOT STOP SIGNAL
+2024-03-17 08:40:03.2455  Quitting due to SIGHUP
+[2024/03/17 08:40:07] Executing command: file_deleter -d 3
+2024-03-17 08:40:07.3108  Starting
+GOT STOP SIGNAL
+2024-03-17 09:45:03.8397  Quitting due to SIGHUP
+[2024/03/17 09:48:42] Executing command: file_deleter -d 3
+2024-03-17 09:48:42.6006  Starting
+GOT STOP SIGNAL
+2024-03-17 11:06:05.3738  Quitting due to SIGHUP
+[2024/03/17 11:06:07] Executing command: file_deleter -d 3
+2024-03-17 11:06:07.9736  Starting
+[2024/03/17 11:25:01] Executing command: file_deleter -d 3
+2024-03-17 11:25:01.8134  Starting
+[2024/03/17 11:30:01] Executing command: file_deleter -d 3
+2024-03-17 11:30:01.8427  Starting

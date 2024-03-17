@@ -1,0 +1,40 @@
+Starting: 15 Mar 2024, 15:30:03 UTC
+PHP Fatal error:  Uncaught mysqli_sql_exception: No such file or directory in /home/boincadm/projects/proto/html/inc/db_conn.inc:40
+Stack trace:
+#0 /home/boincadm/projects/proto/html/inc/db_conn.inc(40): mysqli->__construct()
+#1 /home/boincadm/projects/proto/html/inc/boinc_db.inc(104): DbConn->init_conn()
+#2 /home/boincadm/projects/proto/html/inc/boinc_db.inc(133): BoincDb::get_aux()
+#3 /home/boincadm/projects/proto/html/inc/boinc_db.inc(832): BoincDb::get()
+#4 /home/boincadm/projects/proto/html/ops/delete_expired_tokens.php(8): BoincToken::delete_expired()
+#5 {main}
+  thrown in /home/boincadm/projects/proto/html/inc/db_conn.inc on line 40
+
+Fatal error: Uncaught mysqli_sql_exception: No such file or directory in /home/boincadm/projects/proto/html/inc/db_conn.inc:40
+Stack trace:
+#0 /home/boincadm/projects/proto/html/inc/db_conn.inc(40): mysqli->__construct()
+#1 /home/boincadm/projects/proto/html/inc/boinc_db.inc(104): DbConn->init_conn()
+#2 /home/boincadm/projects/proto/html/inc/boinc_db.inc(133): BoincDb::get_aux()
+#3 /home/boincadm/projects/proto/html/inc/boinc_db.inc(832): BoincDb::get()
+#4 /home/boincadm/projects/proto/html/ops/delete_expired_tokens.php(8): BoincToken::delete_expired()
+#5 {main}
+  thrown in /home/boincadm/projects/proto/html/inc/db_conn.inc on line 40
+Starting: 16 Mar 2024, 15:30:02 UTC
+PHP Fatal error:  Uncaught mysqli_sql_exception: No such file or directory in /home/boincadm/projects/proto/html/inc/db_conn.inc:40
+Stack trace:
+#0 /home/boincadm/projects/proto/html/inc/db_conn.inc(40): mysqli->__construct()
+#1 /home/boincadm/projects/proto/html/inc/boinc_db.inc(104): DbConn->init_conn()
+#2 /home/boincadm/projects/proto/html/inc/boinc_db.inc(133): BoincDb::get_aux()
+#3 /home/boincadm/projects/proto/html/inc/boinc_db.inc(832): BoincDb::get()
+#4 /home/boincadm/projects/proto/html/ops/delete_expired_tokens.php(8): BoincToken::delete_expired()
+#5 {main}
+  thrown in /home/boincadm/projects/proto/html/inc/db_conn.inc on line 40
+
+Fatal error: Uncaught mysqli_sql_exception: No such file or directory in /home/boincadm/projects/proto/html/inc/db_conn.inc:40
+Stack trace:
+#0 /home/boincadm/projects/proto/html/inc/db_conn.inc(40): mysqli->__construct()
+#1 /home/boincadm/projects/proto/html/inc/boinc_db.inc(104): DbConn->init_conn()
+#2 /home/boincadm/projects/proto/html/inc/boinc_db.inc(133): BoincDb::get_aux()
+#3 /home/boincadm/projects/proto/html/inc/boinc_db.inc(832): BoincDb::get()
+#4 /home/boincadm/projects/proto/html/ops/delete_expired_tokens.php(8): BoincToken::delete_expired()
+#5 {main}
+  thrown in /home/boincadm/projects/proto/html/inc/db_conn.inc on line 40

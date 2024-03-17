@@ -1,0 +1,124 @@
+<?xml version="1.0" ?>
+<boinc>
+    <config>
+        <long_name>proto</long_name>
+        <db_user>boincadm</db_user>
+        <db_name>proto</db_name>
+        <db_passwd>Rundown-upsets-knuckle-facade-14</db_passwd>
+        <db_host>
+            
+            
+            
+            
+            
+        </db_host>
+        <shmem_key>0x11118061</shmem_key>
+        <uldl_dir_fanout>1024</uldl_dir_fanout>
+        <host>common-compute-1</host>
+        <min_sendwork_interval>6</min_sendwork_interval>
+        <max_wus_to_send>50</max_wus_to_send>
+        <daily_result_quota>500</daily_result_quota>
+        <disable_account_creation>0</disable_account_creation>
+        <disable_account_creation_rpc>0</disable_account_creation_rpc>
+        <account_creation_rpc_require_consent>0</account_creation_rpc_require_consent>
+        <disable_web_account_creation>0</disable_web_account_creation>
+        <enable_login_mustagree_termsofuse>0</enable_login_mustagree_termsofuse>
+        <enable_privacy_by_default>0</enable_privacy_by_default>
+        <show_results>1</show_results>
+        <cache_md5_info>1</cache_md5_info>
+        <sched_debug_level>3</sched_debug_level>
+        <fuh_debug_level>3</fuh_debug_level>
+        <one_result_per_user_per_wu>0</one_result_per_user_per_wu>
+        <send_result_abort>1</send_result_abort>
+        <dont_generate_upload_certificates>1</dont_generate_upload_certificates>
+        <ignore_upload_certificates>1</ignore_upload_certificates>
+        <enable_delete_account>0</enable_delete_account>
+        <master_url>https://boinc.mmon.co/proto/</master_url>
+        <download_url>https://boinc.mmon.co/proto/download</download_url>
+        <upload_url>https://boinc.mmon.co/proto_cgi/file_upload_handler</upload_url>
+        <download_dir>/home/boincadm/projects/proto/download</download_dir>
+        <upload_dir>/home/boincadm/projects/proto/upload</upload_dir>
+        <key_dir>/home/boincadm/projects/proto/keys/</key_dir>
+        <app_dir>/home/boincadm/projects/proto/apps</app_dir>
+        <log_dir>/home/boincadm/projects/proto/log_common-compute-1</log_dir>
+    </config>
+    <tasks>
+        <task>
+            <period>24 hours</period>
+            <output>antique_file_deleter.out</output>
+            <cmd>antique_file_deleter -d 2</cmd>
+            <disabled>0</disabled>
+        </task>
+        <task>
+            <period>24 hours</period>
+            <output>db_dump.out</output>
+            <cmd>db_dump -d 2 --dump_spec ../db_dump_spec.xml</cmd>
+            <disabled>1</disabled>
+        </task>
+        <task>
+            <period>1 days</period>
+            <output>update_uotd.out</output>
+            <cmd>run_in_ops ./update_uotd.php</cmd>
+            <disabled>0</disabled>
+        </task>
+        <task>
+            <period>1 hour</period>
+            <output>update_forum_activities.out</output>
+            <cmd>run_in_ops ./update_forum_activities.php</cmd>
+            <disabled>0</disabled>
+        </task>
+        <task>
+            <period>1 days</period>
+            <output>update_stats.out</output>
+            <cmd>update_stats</cmd>
+            <disabled>0</disabled>
+        </task>
+        <task>
+            <period>24 hours</period>
+            <output>update_profile_pages.out</output>
+            <cmd>run_in_ops ./update_profile_pages.php</cmd>
+            <disabled>0</disabled>
+        </task>
+        <task>
+            <period>24 hours</period>
+            <output>team_import.out</output>
+            <cmd>run_in_ops ./team_import.php</cmd>
+            <disabled>1</disabled>
+        </task>
+        <task>
+            <period>24 hours</period>
+            <output>notify.out</output>
+            <cmd>run_in_ops ./notify.php</cmd>
+            <disabled>0</disabled>
+        </task>
+        <task>
+            <period>24 hours</period>
+            <output>badge_assign.out</output>
+            <cmd>run_in_ops ./badge_assign.php</cmd>
+            <disabled>0</disabled>
+        </task>
+        <task>
+            <period>24 hours</period>
+            <output>delete_expired_tokens.out</output>
+            <cmd>run_in_ops ./delete_expired_tokens.php</cmd>
+            <disabled>0</disabled>
+        </task>
+        <task>
+            <period>24 hours</period>
+            <output>delete_expired_users_and_hosts.out</output>
+            <cmd>run_in_ops ./delete_expired_users_and_hosts.php</cmd>
+            <disabled>0</disabled>
+        </task>
+    </tasks>
+    <daemons>
+        <daemon>
+            <cmd>feeder -d 3 </cmd>
+        </daemon>
+        <daemon>
+            <cmd>transitioner -d 3 </cmd>
+        </daemon>
+        <daemon>
+            <cmd>file_deleter -d 3 </cmd>
+        </daemon>
+    </daemons>
+</boinc>

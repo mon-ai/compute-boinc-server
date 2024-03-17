@@ -1,0 +1,1946 @@
+[2024/03/15 15:24:58] Executing command: transitioner -d 3
+2024-03-15 15:24:58.4555  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-15 15:24:58.4573 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/15 15:30:01] Executing command: transitioner -d 3
+2024-03-15 15:30:02.1595  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-15 15:30:02.2269 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/15 15:31:48] Executing command: transitioner -d 3
+2024-03-15 15:31:48.6374  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-15 15:31:48.6391 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/15 15:35:01] Executing command: transitioner -d 3
+2024-03-15 15:35:01.4928  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-15 15:35:01.4950 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/15 15:40:01] Executing command: transitioner -d 3
+2024-03-15 15:40:02.2004  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-15 15:40:02.2155 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/15 15:45:01] Executing command: transitioner -d 3
+2024-03-15 15:45:01.9927  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-15 15:45:02.0887 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/15 15:50:01] Executing command: transitioner -d 3
+2024-03-15 15:50:01.5116  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-15 15:50:01.5135 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/15 15:55:01] Executing command: transitioner -d 3
+2024-03-15 15:55:02.0063  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-15 15:55:02.0082 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/15 16:00:01] Executing command: transitioner -d 3
+2024-03-15 16:00:01.3995  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-15 16:00:01.4111 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/15 16:05:01] Executing command: transitioner -d 3
+2024-03-15 16:05:01.8556  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-15 16:05:01.8573 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/15 16:10:01] Executing command: transitioner -d 3
+2024-03-15 16:10:01.2740  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-15 16:10:01.2762 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/15 16:15:01] Executing command: transitioner -d 3
+2024-03-15 16:15:01.7594  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-15 16:15:01.7613 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/15 16:20:01] Executing command: transitioner -d 3
+2024-03-15 16:20:01.4194  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-15 16:20:01.4213 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/15 16:25:01] Executing command: transitioner -d 3
+2024-03-15 16:25:01.8474  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-15 16:25:01.8494 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/15 16:30:01] Executing command: transitioner -d 3
+2024-03-15 16:30:01.2392  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-15 16:30:01.2408 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/15 16:35:01] Executing command: transitioner -d 3
+2024-03-15 16:35:01.8623  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-15 16:35:01.8651 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/15 16:40:01] Executing command: transitioner -d 3
+2024-03-15 16:40:01.2877  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-15 16:40:01.3073 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/15 16:45:01] Executing command: transitioner -d 3
+2024-03-15 16:45:01.7598  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-15 16:45:01.7616 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/15 16:50:02] Executing command: transitioner -d 3
+2024-03-15 16:50:02.1929  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-15 16:50:02.1954 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/15 16:55:01] Executing command: transitioner -d 3
+2024-03-15 16:55:01.6017  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-15 16:55:01.6057 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/15 17:00:01] Executing command: transitioner -d 3
+2024-03-15 17:00:02.0664  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-15 17:00:02.0682 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/15 17:05:01] Executing command: transitioner -d 3
+2024-03-15 17:05:01.5427  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-15 17:05:01.5462 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/15 17:10:01] Executing command: transitioner -d 3
+2024-03-15 17:10:02.0264  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-15 17:10:02.0354 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/15 17:15:01] Executing command: transitioner -d 3
+2024-03-15 17:15:01.4178  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-15 17:15:01.4209 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/15 17:20:01] Executing command: transitioner -d 3
+2024-03-15 17:20:01.8848  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-15 17:20:01.8868 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/15 17:25:01] Executing command: transitioner -d 3
+2024-03-15 17:25:01.3001  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-15 17:25:01.3024 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/15 17:30:01] Executing command: transitioner -d 3
+2024-03-15 17:30:01.7550  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-15 17:30:01.7569 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/15 17:35:02] Executing command: transitioner -d 3
+2024-03-15 17:35:02.2507  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-15 17:35:02.2530 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/15 17:40:01] Executing command: transitioner -d 3
+2024-03-15 17:40:01.7129  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-15 17:40:01.7182 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/15 17:45:02] Executing command: transitioner -d 3
+2024-03-15 17:45:02.2622  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-15 17:45:02.2646 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/15 17:50:01] Executing command: transitioner -d 3
+2024-03-15 17:50:01.6679  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-15 17:50:01.6697 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/15 17:55:02] Executing command: transitioner -d 3
+2024-03-15 17:55:02.2129  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-15 17:55:02.2152 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/15 18:00:01] Executing command: transitioner -d 3
+2024-03-15 18:00:01.6055  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-15 18:00:01.6071 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/15 18:05:01] Executing command: transitioner -d 3
+2024-03-15 18:05:02.0994  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-15 18:05:02.1014 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/15 18:10:01] Executing command: transitioner -d 3
+2024-03-15 18:10:01.5141  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-15 18:10:01.5158 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/15 18:15:01] Executing command: transitioner -d 3
+2024-03-15 18:15:01.9536  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-15 18:15:01.9562 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/15 18:20:01] Executing command: transitioner -d 3
+2024-03-15 18:20:01.5590  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-15 18:20:01.5716 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/15 18:25:01] Executing command: transitioner -d 3
+2024-03-15 18:25:02.0235  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-15 18:25:02.0270 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/15 18:30:01] Executing command: transitioner -d 3
+2024-03-15 18:30:01.4167  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-15 18:30:01.4184 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/15 18:35:01] Executing command: transitioner -d 3
+2024-03-15 18:35:02.0329  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-15 18:35:02.0347 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/15 18:40:01] Executing command: transitioner -d 3
+2024-03-15 18:40:01.5705  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-15 18:40:01.5728 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/15 18:45:01] Executing command: transitioner -d 3
+2024-03-15 18:45:02.0307  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-15 18:45:02.0384 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/15 18:50:01] Executing command: transitioner -d 3
+2024-03-15 18:50:01.3942  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-15 18:50:01.3960 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/15 18:55:01] Executing command: transitioner -d 3
+2024-03-15 18:55:01.8148  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-15 18:55:01.8199 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/15 19:00:01] Executing command: transitioner -d 3
+2024-03-15 19:00:01.2479  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-15 19:00:01.2500 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/15 19:05:01] Executing command: transitioner -d 3
+2024-03-15 19:05:01.8294  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-15 19:05:01.8312 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/15 19:10:01] Executing command: transitioner -d 3
+2024-03-15 19:10:01.2797  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-15 19:10:01.2826 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/15 19:15:01] Executing command: transitioner -d 3
+2024-03-15 19:15:01.6877  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-15 19:15:01.6901 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/15 19:20:02] Executing command: transitioner -d 3
+2024-03-15 19:20:02.3504  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-15 19:20:02.3522 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/15 19:25:01] Executing command: transitioner -d 3
+2024-03-15 19:25:01.7221  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-15 19:25:01.7238 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/15 19:30:02] Executing command: transitioner -d 3
+2024-03-15 19:30:02.1595  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-15 19:30:02.1617 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/15 19:35:01] Executing command: transitioner -d 3
+2024-03-15 19:35:01.3124  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-15 19:35:01.3145 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/15 19:40:01] Executing command: transitioner -d 3
+2024-03-15 19:40:01.8975  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-15 19:40:01.8992 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/15 19:45:01] Executing command: transitioner -d 3
+2024-03-15 19:45:01.2696  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-15 19:45:01.2715 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/15 19:50:01] Executing command: transitioner -d 3
+2024-03-15 19:50:01.6971  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-15 19:50:01.6988 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/15 19:55:02] Executing command: transitioner -d 3
+2024-03-15 19:55:02.2426  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-15 19:55:02.2444 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/15 20:00:01] Executing command: transitioner -d 3
+2024-03-15 20:00:01.8441  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-15 20:00:01.8499 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/15 20:05:01] Executing command: transitioner -d 3
+2024-03-15 20:05:01.3039  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-15 20:05:01.3058 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/15 20:10:01] Executing command: transitioner -d 3
+2024-03-15 20:10:01.7889  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-15 20:10:01.7905 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/15 20:15:01] Executing command: transitioner -d 3
+2024-03-15 20:15:01.1936  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-15 20:15:01.1952 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/15 20:20:01] Executing command: transitioner -d 3
+2024-03-15 20:20:01.8489  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-15 20:20:01.8507 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/15 20:25:01] Executing command: transitioner -d 3
+2024-03-15 20:25:01.2154  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-15 20:25:01.2175 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/15 20:30:01] Executing command: transitioner -d 3
+2024-03-15 20:30:01.6651  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-15 20:30:01.6670 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/15 20:35:02] Executing command: transitioner -d 3
+2024-03-15 20:35:02.1661  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-15 20:35:02.1678 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/15 20:40:01] Executing command: transitioner -d 3
+2024-03-15 20:40:01.7913  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-15 20:40:01.7932 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/15 20:45:01] Executing command: transitioner -d 3
+2024-03-15 20:45:01.2049  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-15 20:45:01.2064 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/15 20:50:01] Executing command: transitioner -d 3
+2024-03-15 20:50:01.5995  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-15 20:50:01.6015 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/15 20:55:01] Executing command: transitioner -d 3
+2024-03-15 20:55:02.0700  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-15 20:55:02.0716 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/15 21:00:01] Executing command: transitioner -d 3
+2024-03-15 21:00:01.4469  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-15 21:00:01.4487 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/15 21:05:01] Executing command: transitioner -d 3
+2024-03-15 21:05:01.8498  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-15 21:05:01.8520 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/15 21:10:01] Executing command: transitioner -d 3
+2024-03-15 21:10:01.3581  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-15 21:10:01.3596 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/15 21:15:01] Executing command: transitioner -d 3
+2024-03-15 21:15:01.9600  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-15 21:15:01.9893 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/15 21:20:01] Executing command: transitioner -d 3
+2024-03-15 21:20:01.3077  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-15 21:20:01.3095 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/15 21:25:01] Executing command: transitioner -d 3
+2024-03-15 21:25:01.6358  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-15 21:25:01.6380 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/15 21:30:01] Executing command: transitioner -d 3
+2024-03-15 21:30:02.1383  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-15 21:30:02.1400 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/15 21:35:01] Executing command: transitioner -d 3
+2024-03-15 21:35:01.5806  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-15 21:35:01.5821 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/15 21:40:01] Executing command: transitioner -d 3
+2024-03-15 21:40:02.1116  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-15 21:40:02.1133 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/15 21:45:01] Executing command: transitioner -d 3
+2024-03-15 21:45:01.6543  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-15 21:45:01.6570 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/15 21:50:02] Executing command: transitioner -d 3
+2024-03-15 21:50:02.2970  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-15 21:50:02.2988 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/15 21:55:01] Executing command: transitioner -d 3
+2024-03-15 21:55:01.6398  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-15 21:55:01.6416 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/15 22:00:01] Executing command: transitioner -d 3
+2024-03-15 22:00:02.0803  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-15 22:00:02.0837 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/15 22:05:01] Executing command: transitioner -d 3
+2024-03-15 22:05:01.5620  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-15 22:05:01.5637 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/15 22:10:01] Executing command: transitioner -d 3
+2024-03-15 22:10:02.0278  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-15 22:10:02.0297 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/15 22:15:01] Executing command: transitioner -d 3
+2024-03-15 22:15:01.4553  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-15 22:15:01.4571 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/15 22:20:01] Executing command: transitioner -d 3
+2024-03-15 22:20:01.9013  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-15 22:20:01.9059 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/15 22:25:01] Executing command: transitioner -d 3
+2024-03-15 22:25:02.1155  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-15 22:25:02.1175 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/15 22:30:01] Executing command: transitioner -d 3
+2024-03-15 22:30:01.5737  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-15 22:30:01.5755 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/15 22:35:01] Executing command: transitioner -d 3
+2024-03-15 22:35:02.1169  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-15 22:35:02.1192 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/15 22:40:01] Executing command: transitioner -d 3
+2024-03-15 22:40:01.5353  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-15 22:40:01.5375 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/15 22:45:01] Executing command: transitioner -d 3
+2024-03-15 22:45:02.0959  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-15 22:45:02.0985 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/15 22:50:01] Executing command: transitioner -d 3
+2024-03-15 22:50:01.5460  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-15 22:50:01.5500 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/15 22:55:01] Executing command: transitioner -d 3
+2024-03-15 22:55:01.9882  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-15 22:55:01.9925 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/15 23:00:01] Executing command: transitioner -d 3
+2024-03-15 23:00:01.4041  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-15 23:00:01.4073 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/15 23:05:01] Executing command: transitioner -d 3
+2024-03-15 23:05:01.8478  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-15 23:05:01.8497 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/15 23:10:01] Executing command: transitioner -d 3
+2024-03-15 23:10:01.2799  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-15 23:10:01.2822 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/15 23:15:01] Executing command: transitioner -d 3
+2024-03-15 23:15:01.7347  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-15 23:15:01.7409 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/15 23:20:01] Executing command: transitioner -d 3
+2024-03-15 23:20:01.3613  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-15 23:20:01.3634 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/15 23:25:01] Executing command: transitioner -d 3
+2024-03-15 23:25:01.7825  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-15 23:25:01.7850 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/15 23:30:02] Executing command: transitioner -d 3
+2024-03-15 23:30:02.2944  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-15 23:30:02.3043 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/15 23:35:01] Executing command: transitioner -d 3
+2024-03-15 23:35:01.9062  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-15 23:35:01.9177 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/15 23:40:01] Executing command: transitioner -d 3
+2024-03-15 23:40:01.2847  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-15 23:40:01.2863 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/15 23:45:01] Executing command: transitioner -d 3
+2024-03-15 23:45:01.8751  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-15 23:45:01.8769 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/15 23:50:01] Executing command: transitioner -d 3
+2024-03-15 23:50:01.2957  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-15 23:50:01.2976 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/15 23:55:01] Executing command: transitioner -d 3
+2024-03-15 23:55:01.7556  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-15 23:55:01.7574 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 00:00:02] Executing command: transitioner -d 3
+2024-03-16 00:00:02.8080  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 00:00:02.8096 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 00:05:01] Executing command: transitioner -d 3
+2024-03-16 00:05:01.3193  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 00:05:01.3209 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 00:10:01] Executing command: transitioner -d 3
+2024-03-16 00:10:01.7384  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 00:10:01.7438 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 00:15:02] Executing command: transitioner -d 3
+2024-03-16 00:15:02.1426  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 00:15:02.1444 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 00:20:01] Executing command: transitioner -d 3
+2024-03-16 00:20:01.9076  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 00:20:01.9096 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 00:25:01] Executing command: transitioner -d 3
+2024-03-16 00:25:01.3170  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 00:25:01.3198 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 00:30:01] Executing command: transitioner -d 3
+2024-03-16 00:30:01.7706  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 00:30:01.7735 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 00:35:02] Executing command: transitioner -d 3
+2024-03-16 00:35:02.2784  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 00:35:02.2900 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 00:40:01] Executing command: transitioner -d 3
+2024-03-16 00:40:01.7863  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 00:40:01.7883 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 00:45:01] Executing command: transitioner -d 3
+2024-03-16 00:45:01.4211  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 00:45:01.4228 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 00:50:01] Executing command: transitioner -d 3
+2024-03-16 00:50:01.8943  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 00:50:01.8967 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 00:55:01] Executing command: transitioner -d 3
+2024-03-16 00:55:01.3636  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 00:55:01.3655 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 01:00:01] Executing command: transitioner -d 3
+2024-03-16 01:00:01.8579  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 01:00:01.8597 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 01:05:01] Executing command: transitioner -d 3
+2024-03-16 01:05:01.2968  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 01:05:01.2992 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 01:10:01] Executing command: transitioner -d 3
+2024-03-16 01:10:01.7568  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 01:10:01.7620 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 01:15:02] Executing command: transitioner -d 3
+2024-03-16 01:15:02.2105  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 01:15:02.2128 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 01:20:01] Executing command: transitioner -d 3
+2024-03-16 01:20:01.8524  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 01:20:01.8543 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 01:25:01] Executing command: transitioner -d 3
+2024-03-16 01:25:01.2616  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 01:25:01.2636 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 01:30:01] Executing command: transitioner -d 3
+2024-03-16 01:30:01.6937  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 01:30:01.6980 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 01:35:02] Executing command: transitioner -d 3
+2024-03-16 01:35:02.1817  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 01:35:02.1835 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 01:40:01] Executing command: transitioner -d 3
+2024-03-16 01:40:01.6517  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 01:40:01.6533 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 01:45:02] Executing command: transitioner -d 3
+2024-03-16 01:45:02.2888  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 01:45:02.2906 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 01:50:01] Executing command: transitioner -d 3
+2024-03-16 01:50:01.7259  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 01:50:01.7276 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 01:55:02] Executing command: transitioner -d 3
+2024-03-16 01:55:02.2043  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 01:55:02.2061 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 02:00:01] Executing command: transitioner -d 3
+2024-03-16 02:00:01.6819  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 02:00:01.6836 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 02:05:02] Executing command: transitioner -d 3
+2024-03-16 02:05:02.2305  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 02:05:02.2323 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 02:10:01] Executing command: transitioner -d 3
+2024-03-16 02:10:01.7059  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 02:10:01.7088 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 02:15:02] Executing command: transitioner -d 3
+2024-03-16 02:15:02.2956  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 02:15:02.2975 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 02:20:01] Executing command: transitioner -d 3
+2024-03-16 02:20:01.6923  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 02:20:01.6948 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 02:25:01] Executing command: transitioner -d 3
+2024-03-16 02:25:01.9673  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 02:25:01.9698 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 02:30:01] Executing command: transitioner -d 3
+2024-03-16 02:30:01.4900  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 02:30:01.4923 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 02:35:01] Executing command: transitioner -d 3
+2024-03-16 02:35:02.1338  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 02:35:02.1353 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 02:40:01] Executing command: transitioner -d 3
+2024-03-16 02:40:01.5289  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 02:40:01.5312 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 02:45:01] Executing command: transitioner -d 3
+2024-03-16 02:45:02.0412  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 02:45:02.0435 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 02:50:01] Executing command: transitioner -d 3
+2024-03-16 02:50:01.4849  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 02:50:01.4870 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 02:55:01] Executing command: transitioner -d 3
+2024-03-16 02:55:01.9962  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 02:55:01.9980 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 03:00:01] Executing command: transitioner -d 3
+2024-03-16 03:00:01.3826  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 03:00:01.3850 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 03:05:01] Executing command: transitioner -d 3
+2024-03-16 03:05:01.8987  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 03:05:01.9004 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 03:10:01] Executing command: transitioner -d 3
+2024-03-16 03:10:01.2815  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 03:10:01.2832 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 03:15:01] Executing command: transitioner -d 3
+2024-03-16 03:15:01.7150  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 03:15:01.7177 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 03:20:02] Executing command: transitioner -d 3
+2024-03-16 03:20:02.1845  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 03:20:02.1887 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 03:25:01] Executing command: transitioner -d 3
+2024-03-16 03:25:01.3732  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 03:25:01.3757 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 03:30:01] Executing command: transitioner -d 3
+2024-03-16 03:30:01.8727  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 03:30:01.8745 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 03:35:01] Executing command: transitioner -d 3
+2024-03-16 03:35:01.3079  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 03:35:01.3099 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 03:40:01] Executing command: transitioner -d 3
+2024-03-16 03:40:01.7389  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 03:40:01.7429 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 03:45:01] Executing command: transitioner -d 3
+2024-03-16 03:45:01.2845  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 03:45:01.2865 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 03:50:01] Executing command: transitioner -d 3
+2024-03-16 03:50:01.8013  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 03:50:01.8028 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 03:55:01] Executing command: transitioner -d 3
+2024-03-16 03:55:01.2271  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 03:55:01.2288 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 04:00:01] Executing command: transitioner -d 3
+2024-03-16 04:00:01.6425  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 04:00:01.6461 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 04:05:01] Executing command: transitioner -d 3
+2024-03-16 04:05:02.0950  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 04:05:02.0969 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 04:10:01] Executing command: transitioner -d 3
+2024-03-16 04:10:01.6111  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 04:10:01.6128 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 04:15:02] Executing command: transitioner -d 3
+2024-03-16 04:15:02.1874  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 04:15:02.1892 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 04:20:01] Executing command: transitioner -d 3
+2024-03-16 04:20:01.6163  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 04:20:01.6181 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 04:25:01] Executing command: transitioner -d 3
+2024-03-16 04:25:01.7884  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 04:25:01.7907 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 04:30:01] Executing command: transitioner -d 3
+2024-03-16 04:30:01.1919  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 04:30:01.1937 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 04:35:01] Executing command: transitioner -d 3
+2024-03-16 04:35:01.7637  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 04:35:01.7656 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 04:40:01] Executing command: transitioner -d 3
+2024-03-16 04:40:01.1960  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 04:40:01.1982 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 04:45:01] Executing command: transitioner -d 3
+2024-03-16 04:45:01.8208  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 04:45:01.8224 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 04:50:01] Executing command: transitioner -d 3
+2024-03-16 04:50:01.1834  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 04:50:01.1851 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 04:55:01] Executing command: transitioner -d 3
+2024-03-16 04:55:01.6418  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 04:55:01.6436 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 05:00:01] Executing command: transitioner -d 3
+2024-03-16 05:00:02.1675  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 05:00:02.1694 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 05:05:01] Executing command: transitioner -d 3
+2024-03-16 05:05:01.5129  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 05:05:01.5147 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 05:10:01] Executing command: transitioner -d 3
+2024-03-16 05:10:02.0899  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 05:10:02.0999 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 05:15:01] Executing command: transitioner -d 3
+2024-03-16 05:15:01.4586  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 05:15:01.4601 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 05:20:01] Executing command: transitioner -d 3
+2024-03-16 05:20:02.0755  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 05:20:02.0773 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 05:25:01] Executing command: transitioner -d 3
+2024-03-16 05:25:01.4544  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 05:25:01.4561 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 05:30:01] Executing command: transitioner -d 3
+2024-03-16 05:30:01.9594  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 05:30:01.9613 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 05:35:01] Executing command: transitioner -d 3
+2024-03-16 05:35:01.3629  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 05:35:01.3647 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 05:40:01] Executing command: transitioner -d 3
+2024-03-16 05:40:01.9847  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 05:40:01.9869 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 05:45:01] Executing command: transitioner -d 3
+2024-03-16 05:45:01.5476  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 05:45:01.5495 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 05:50:01] Executing command: transitioner -d 3
+2024-03-16 05:50:02.0322  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 05:50:02.0340 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 05:55:01] Executing command: transitioner -d 3
+2024-03-16 05:55:01.4077  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 05:55:01.4100 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 06:00:01] Executing command: transitioner -d 3
+2024-03-16 06:00:02.0490  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 06:00:02.1047 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 06:05:01] Executing command: transitioner -d 3
+2024-03-16 06:05:01.3332  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 06:05:01.3350 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 06:10:01] Executing command: transitioner -d 3
+2024-03-16 06:10:01.9348  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 06:10:01.9368 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 06:15:01] Executing command: transitioner -d 3
+2024-03-16 06:15:01.3197  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 06:15:01.3215 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 06:20:01] Executing command: transitioner -d 3
+2024-03-16 06:20:01.7857  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 06:20:01.7956 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 06:25:01] Executing command: transitioner -d 3
+2024-03-16 06:25:02.0933  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 06:25:02.0956 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 06:30:01] Executing command: transitioner -d 3
+2024-03-16 06:30:01.4961  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 06:30:01.4979 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 06:35:01] Executing command: transitioner -d 3
+2024-03-16 06:35:01.9214  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 06:35:01.9232 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 06:40:01] Executing command: transitioner -d 3
+2024-03-16 06:40:01.4784  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 06:40:01.4870 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 06:45:01] Executing command: transitioner -d 3
+2024-03-16 06:45:01.9972  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 06:45:02.0005 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 06:50:01] Executing command: transitioner -d 3
+2024-03-16 06:50:01.5637  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 06:50:01.5667 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 06:55:02] Executing command: transitioner -d 3
+2024-03-16 06:55:02.2896  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 06:55:02.2915 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 07:00:01] Executing command: transitioner -d 3
+2024-03-16 07:00:01.7445  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 07:00:01.7489 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 07:05:02] Executing command: transitioner -d 3
+2024-03-16 07:05:02.1785  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 07:05:02.1806 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 07:10:01] Executing command: transitioner -d 3
+2024-03-16 07:10:01.6095  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 07:10:01.6190 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 07:15:01] Executing command: transitioner -d 3
+2024-03-16 07:15:02.1488  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 07:15:02.1693 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 07:20:01] Executing command: transitioner -d 3
+2024-03-16 07:20:01.5661  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 07:20:01.5825 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 07:25:01] Executing command: transitioner -d 3
+2024-03-16 07:25:01.7616  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 07:25:01.7641 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 07:30:02] Executing command: transitioner -d 3
+2024-03-16 07:30:02.3427  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 07:30:02.3509 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 07:35:01] Executing command: transitioner -d 3
+2024-03-16 07:35:01.8301  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 07:35:01.8402 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 07:40:01] Executing command: transitioner -d 3
+2024-03-16 07:40:01.2656  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 07:40:01.2675 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 07:45:01] Executing command: transitioner -d 3
+2024-03-16 07:45:01.8320  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 07:45:01.8358 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 07:50:01] Executing command: transitioner -d 3
+2024-03-16 07:50:01.3340  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 07:50:01.3362 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 07:55:01] Executing command: transitioner -d 3
+2024-03-16 07:55:01.8423  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 07:55:01.8449 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 08:00:01] Executing command: transitioner -d 3
+2024-03-16 08:00:01.2236  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 08:00:01.2255 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 08:05:01] Executing command: transitioner -d 3
+2024-03-16 08:05:01.7101  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 08:05:01.7121 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 08:10:02] Executing command: transitioner -d 3
+2024-03-16 08:10:02.1557  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 08:10:02.1580 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 08:15:01] Executing command: transitioner -d 3
+2024-03-16 08:15:01.6456  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 08:15:01.6474 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 08:20:01] Executing command: transitioner -d 3
+2024-03-16 08:20:02.0826  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 08:20:02.0877 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 08:25:01] Executing command: transitioner -d 3
+2024-03-16 08:25:01.3952  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 08:25:01.3988 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 08:30:01] Executing command: transitioner -d 3
+2024-03-16 08:30:01.8563  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 08:30:01.8581 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 08:35:01] Executing command: transitioner -d 3
+2024-03-16 08:35:01.3013  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 08:35:01.3030 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 08:40:01] Executing command: transitioner -d 3
+2024-03-16 08:40:01.7885  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 08:40:01.7947 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 08:45:01] Executing command: transitioner -d 3
+2024-03-16 08:45:01.3481  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 08:45:01.3499 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 08:50:01] Executing command: transitioner -d 3
+2024-03-16 08:50:01.8261  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 08:50:01.8278 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 08:55:01] Executing command: transitioner -d 3
+2024-03-16 08:55:01.2584  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 08:55:01.2604 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 09:00:01] Executing command: transitioner -d 3
+2024-03-16 09:00:01.8031  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 09:00:01.8050 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 09:05:01] Executing command: transitioner -d 3
+2024-03-16 09:05:01.1847  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 09:05:01.1863 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 09:10:01] Executing command: transitioner -d 3
+2024-03-16 09:10:01.6062  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 09:10:01.6083 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 09:15:02] Executing command: transitioner -d 3
+2024-03-16 09:15:02.2328  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 09:15:02.2461 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 09:20:01] Executing command: transitioner -d 3
+2024-03-16 09:20:01.9599  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 09:20:01.9618 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 09:25:01] Executing command: transitioner -d 3
+2024-03-16 09:25:01.3951  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 09:25:01.3980 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 09:30:01] Executing command: transitioner -d 3
+2024-03-16 09:30:01.9371  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 09:30:01.9392 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 09:35:01] Executing command: transitioner -d 3
+2024-03-16 09:35:01.4056  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 09:35:01.4074 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 09:40:01] Executing command: transitioner -d 3
+2024-03-16 09:40:01.9723  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 09:40:01.9743 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 09:45:01] Executing command: transitioner -d 3
+2024-03-16 09:45:01.5128  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 09:45:01.5146 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 09:50:01] Executing command: transitioner -d 3
+2024-03-16 09:50:02.0575  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 09:50:02.0658 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 09:55:01] Executing command: transitioner -d 3
+2024-03-16 09:55:01.4278  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 09:55:01.4295 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 10:00:01] Executing command: transitioner -d 3
+2024-03-16 10:00:01.9665  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 10:00:01.9686 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 10:05:01] Executing command: transitioner -d 3
+2024-03-16 10:05:01.3609  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 10:05:01.3630 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 10:10:01] Executing command: transitioner -d 3
+2024-03-16 10:10:01.8409  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 10:10:01.8496 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 10:15:01] Executing command: transitioner -d 3
+2024-03-16 10:15:01.2424  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 10:15:01.2450 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 10:20:01] Executing command: transitioner -d 3
+2024-03-16 10:20:01.6609  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 10:20:01.6624 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 10:25:01] Executing command: transitioner -d 3
+2024-03-16 10:25:02.0997  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 10:25:02.1017 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 10:30:01] Executing command: transitioner -d 3
+2024-03-16 10:30:01.6203  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 10:30:01.6221 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 10:35:01] Executing command: transitioner -d 3
+2024-03-16 10:35:01.9924  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 10:35:01.9944 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 10:40:01] Executing command: transitioner -d 3
+2024-03-16 10:40:01.5259  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 10:40:01.5275 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 10:45:01] Executing command: transitioner -d 3
+2024-03-16 10:45:02.0936  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 10:45:02.0964 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 10:50:01] Executing command: transitioner -d 3
+2024-03-16 10:50:01.5304  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 10:50:01.5386 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 10:55:01] Executing command: transitioner -d 3
+2024-03-16 10:55:02.0004  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 10:55:02.0029 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 11:00:01] Executing command: transitioner -d 3
+2024-03-16 11:00:01.4407  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 11:00:01.4425 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 11:05:01] Executing command: transitioner -d 3
+2024-03-16 11:05:01.9145  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 11:05:01.9164 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 11:10:01] Executing command: transitioner -d 3
+2024-03-16 11:10:01.3332  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 11:10:01.3351 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 11:15:01] Executing command: transitioner -d 3
+2024-03-16 11:15:01.7604  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 11:15:01.7619 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 11:20:02] Executing command: transitioner -d 3
+2024-03-16 11:20:02.4014  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 11:20:02.4032 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 11:25:01] Executing command: transitioner -d 3
+2024-03-16 11:25:01.4787  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 11:25:01.4811 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 11:30:01] Executing command: transitioner -d 3
+2024-03-16 11:30:01.9373  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 11:30:01.9462 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 11:35:01] Executing command: transitioner -d 3
+2024-03-16 11:35:01.3924  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 11:35:01.3956 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 11:40:01] Executing command: transitioner -d 3
+2024-03-16 11:40:02.0395  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 11:40:02.0458 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 11:45:01] Executing command: transitioner -d 3
+2024-03-16 11:45:01.6207  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 11:45:01.6224 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 11:50:01] Executing command: transitioner -d 3
+2024-03-16 11:50:02.0245  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 11:50:02.0269 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 11:55:01] Executing command: transitioner -d 3
+2024-03-16 11:55:01.4058  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 11:55:01.4074 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 12:00:01] Executing command: transitioner -d 3
+2024-03-16 12:00:01.8697  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 12:00:01.8715 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 12:05:01] Executing command: transitioner -d 3
+2024-03-16 12:05:01.3030  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 12:05:01.3047 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 12:10:01] Executing command: transitioner -d 3
+2024-03-16 12:10:01.7765  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 12:10:01.7785 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 12:15:02] Executing command: transitioner -d 3
+2024-03-16 12:15:02.1497  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 12:15:02.1520 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 12:20:01] Executing command: transitioner -d 3
+2024-03-16 12:20:01.6403  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 12:20:01.6422 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 12:25:01] Executing command: transitioner -d 3
+2024-03-16 12:25:02.0723  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 12:25:02.0741 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 12:30:01] Executing command: transitioner -d 3
+2024-03-16 12:30:01.4429  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 12:30:01.4454 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 12:35:01] Executing command: transitioner -d 3
+2024-03-16 12:35:01.9467  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 12:35:01.9485 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 12:40:01] Executing command: transitioner -d 3
+2024-03-16 12:40:01.3657  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 12:40:01.3676 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 12:45:01] Executing command: transitioner -d 3
+2024-03-16 12:45:01.9018  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 12:45:01.9050 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 12:50:01] Executing command: transitioner -d 3
+2024-03-16 12:50:01.2993  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 12:50:01.3010 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 12:55:01] Executing command: transitioner -d 3
+2024-03-16 12:55:01.7403  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 12:55:01.7439 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 13:00:02] Executing command: transitioner -d 3
+2024-03-16 13:00:02.3051  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 13:00:02.3068 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 13:05:01] Executing command: transitioner -d 3
+2024-03-16 13:05:01.7346  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 13:05:01.7365 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 13:10:02] Executing command: transitioner -d 3
+2024-03-16 13:10:02.2271  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 13:10:02.2290 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 13:15:01] Executing command: transitioner -d 3
+2024-03-16 13:15:01.6529  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 13:15:01.6549 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 13:20:01] Executing command: transitioner -d 3
+2024-03-16 13:20:02.0531  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 13:20:02.0550 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 13:25:01] Executing command: transitioner -d 3
+2024-03-16 13:25:01.3814  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 13:25:01.3854 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 13:30:01] Executing command: transitioner -d 3
+2024-03-16 13:30:01.8074  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 13:30:01.8090 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 13:35:01] Executing command: transitioner -d 3
+2024-03-16 13:35:01.2307  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 13:35:01.2332 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 13:40:01] Executing command: transitioner -d 3
+2024-03-16 13:40:01.6566  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 13:40:01.6629 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 13:45:02] Executing command: transitioner -d 3
+2024-03-16 13:45:02.2200  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 13:45:02.2218 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 13:50:01] Executing command: transitioner -d 3
+2024-03-16 13:50:01.6860  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 13:50:01.6878 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 13:55:02] Executing command: transitioner -d 3
+2024-03-16 13:55:02.1336  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 13:55:02.1355 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 14:00:01] Executing command: transitioner -d 3
+2024-03-16 14:00:01.5522  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 14:00:01.5642 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 14:05:01] Executing command: transitioner -d 3
+2024-03-16 14:05:01.9809  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 14:05:01.9827 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 14:10:01] Executing command: transitioner -d 3
+2024-03-16 14:10:01.4346  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 14:10:01.4364 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 14:15:01] Executing command: transitioner -d 3
+2024-03-16 14:15:01.8516  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 14:15:01.8543 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 14:20:01] Executing command: transitioner -d 3
+2024-03-16 14:20:01.2419  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 14:20:01.2437 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 14:25:01] Executing command: transitioner -d 3
+2024-03-16 14:25:01.6378  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 14:25:01.6395 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 14:30:01] Executing command: transitioner -d 3
+2024-03-16 14:30:01.4739  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 14:30:01.4758 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 14:35:01] Executing command: transitioner -d 3
+2024-03-16 14:35:01.9577  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 14:35:01.9602 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 14:40:01] Executing command: transitioner -d 3
+2024-03-16 14:40:01.3700  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 14:40:01.3778 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 14:45:01] Executing command: transitioner -d 3
+2024-03-16 14:45:02.1009  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 14:45:02.1027 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 14:50:01] Executing command: transitioner -d 3
+2024-03-16 14:50:01.4985  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 14:50:01.5005 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 14:55:01] Executing command: transitioner -d 3
+2024-03-16 14:55:02.0244  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 14:55:02.0262 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 15:00:01] Executing command: transitioner -d 3
+2024-03-16 15:00:01.3700  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 15:00:01.3718 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 15:05:01] Executing command: transitioner -d 3
+2024-03-16 15:05:01.7731  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 15:05:01.7748 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 15:10:01] Executing command: transitioner -d 3
+2024-03-16 15:10:01.2177  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 15:10:01.2192 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 15:15:01] Executing command: transitioner -d 3
+2024-03-16 15:15:01.6221  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 15:15:01.6242 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 15:20:01] Executing command: transitioner -d 3
+2024-03-16 15:20:02.1692  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 15:20:02.1710 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 15:25:01] Executing command: transitioner -d 3
+2024-03-16 15:25:01.3423  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 15:25:01.3441 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 15:30:01] Executing command: transitioner -d 3
+2024-03-16 15:30:01.7098  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 15:30:01.7128 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 15:35:01] Executing command: transitioner -d 3
+2024-03-16 15:35:02.0639  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 15:35:02.0658 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 15:40:01] Executing command: transitioner -d 3
+2024-03-16 15:40:01.4673  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 15:40:01.4691 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 15:45:02] Executing command: transitioner -d 3
+2024-03-16 15:45:02.2235  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 15:45:02.2398 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 15:50:01] Executing command: transitioner -d 3
+2024-03-16 15:50:01.6730  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 15:50:01.6751 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 15:55:02] Executing command: transitioner -d 3
+2024-03-16 15:55:02.3011  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 15:55:02.3028 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 16:00:01] Executing command: transitioner -d 3
+2024-03-16 16:00:01.6798  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 16:00:01.6818 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 16:05:02] Executing command: transitioner -d 3
+2024-03-16 16:05:02.2194  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 16:05:02.2213 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 16:10:01] Executing command: transitioner -d 3
+2024-03-16 16:10:01.6850  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 16:10:01.6868 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 16:15:02] Executing command: transitioner -d 3
+2024-03-16 16:15:02.1307  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 16:15:02.1330 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 16:20:01] Executing command: transitioner -d 3
+2024-03-16 16:20:01.5505  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 16:20:01.5535 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 16:25:01] Executing command: transitioner -d 3
+2024-03-16 16:25:01.7692  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 16:25:01.7720 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 16:30:01] Executing command: transitioner -d 3
+2024-03-16 16:30:01.1934  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 16:30:01.1950 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 16:35:01] Executing command: transitioner -d 3
+2024-03-16 16:35:01.6173  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 16:35:01.6222 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 16:40:02] Executing command: transitioner -d 3
+2024-03-16 16:40:02.1726  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 16:40:02.1743 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 16:45:01] Executing command: transitioner -d 3
+2024-03-16 16:45:01.7462  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 16:45:01.7545 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 16:50:02] Executing command: transitioner -d 3
+2024-03-16 16:50:02.2217  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 16:50:02.2239 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 16:55:01] Executing command: transitioner -d 3
+2024-03-16 16:55:01.6888  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 16:55:01.6911 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 17:00:02] Executing command: transitioner -d 3
+2024-03-16 17:00:02.1968  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 17:00:02.1986 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 17:05:01] Executing command: transitioner -d 3
+2024-03-16 17:05:01.6831  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 17:05:01.6849 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 17:10:02] Executing command: transitioner -d 3
+2024-03-16 17:10:02.4397  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 17:10:02.4420 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 17:15:01] Executing command: transitioner -d 3
+2024-03-16 17:15:01.8930  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 17:15:01.8968 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 17:20:01] Executing command: transitioner -d 3
+2024-03-16 17:20:01.2982  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 17:20:01.3001 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 17:25:01] Executing command: transitioner -d 3
+2024-03-16 17:25:01.7093  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 17:25:01.7111 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 17:30:01] Executing command: transitioner -d 3
+2024-03-16 17:30:01.5461  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 17:30:01.5495 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 17:35:01] Executing command: transitioner -d 3
+2024-03-16 17:35:01.9531  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 17:35:01.9574 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 17:40:01] Executing command: transitioner -d 3
+2024-03-16 17:40:01.4396  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 17:40:01.4449 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 17:45:01] Executing command: transitioner -d 3
+2024-03-16 17:45:01.8742  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 17:45:01.8759 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 17:50:01] Executing command: transitioner -d 3
+2024-03-16 17:50:01.4201  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 17:50:01.4237 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 17:55:01] Executing command: transitioner -d 3
+2024-03-16 17:55:01.9743  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 17:55:01.9762 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 18:00:01] Executing command: transitioner -d 3
+2024-03-16 18:00:01.4368  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 18:00:01.4384 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 18:05:01] Executing command: transitioner -d 3
+2024-03-16 18:05:01.8545  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 18:05:01.8563 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 18:10:01] Executing command: transitioner -d 3
+2024-03-16 18:10:01.2547  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 18:10:01.2564 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 18:15:01] Executing command: transitioner -d 3
+2024-03-16 18:15:01.7319  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 18:15:01.7340 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 18:20:02] Executing command: transitioner -d 3
+2024-03-16 18:20:02.1669  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 18:20:02.1694 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 18:25:01] Executing command: transitioner -d 3
+2024-03-16 18:25:01.7357  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 18:25:01.7414 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 18:30:01] Executing command: transitioner -d 3
+2024-03-16 18:30:01.4520  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 18:30:01.4540 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 18:35:01] Executing command: transitioner -d 3
+2024-03-16 18:35:01.9898  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 18:35:01.9913 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 18:40:01] Executing command: transitioner -d 3
+2024-03-16 18:40:01.4044  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 18:40:01.4077 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 18:45:01] Executing command: transitioner -d 3
+2024-03-16 18:45:01.9834  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 18:45:01.9854 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 18:50:01] Executing command: transitioner -d 3
+2024-03-16 18:50:01.4448  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 18:50:01.4466 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 18:55:01] Executing command: transitioner -d 3
+2024-03-16 18:55:01.9356  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 18:55:01.9376 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 19:00:01] Executing command: transitioner -d 3
+2024-03-16 19:00:01.3732  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 19:00:01.3751 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 19:05:01] Executing command: transitioner -d 3
+2024-03-16 19:05:01.8722  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 19:05:01.8761 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 19:10:01] Executing command: transitioner -d 3
+2024-03-16 19:10:01.2894  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 19:10:01.2911 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 19:15:01] Executing command: transitioner -d 3
+2024-03-16 19:15:01.7517  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 19:15:01.7535 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 19:20:02] Executing command: transitioner -d 3
+2024-03-16 19:20:02.1819  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 19:20:02.1837 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 19:25:01] Executing command: transitioner -d 3
+2024-03-16 19:25:01.3021  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 19:25:01.3040 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 19:30:01] Executing command: transitioner -d 3
+2024-03-16 19:30:01.7801  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 19:30:01.7819 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 19:35:02] Executing command: transitioner -d 3
+2024-03-16 19:35:02.2629  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 19:35:02.2700 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 19:40:01] Executing command: transitioner -d 3
+2024-03-16 19:40:01.7985  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 19:40:01.8001 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 19:45:01] Executing command: transitioner -d 3
+2024-03-16 19:45:01.2018  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 19:45:01.2033 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 19:50:01] Executing command: transitioner -d 3
+2024-03-16 19:50:01.8804  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 19:50:01.8833 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 19:55:01] Executing command: transitioner -d 3
+2024-03-16 19:55:01.2774  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 19:55:01.2791 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 20:00:01] Executing command: transitioner -d 3
+2024-03-16 20:00:01.9296  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 20:00:01.9318 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 20:05:01] Executing command: transitioner -d 3
+2024-03-16 20:05:01.2859  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 20:05:01.2876 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 20:10:01] Executing command: transitioner -d 3
+2024-03-16 20:10:01.7299  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 20:10:01.7317 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 20:15:02] Executing command: transitioner -d 3
+2024-03-16 20:15:02.1555  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 20:15:02.1573 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 20:20:01] Executing command: transitioner -d 3
+2024-03-16 20:20:01.5642  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 20:20:01.5670 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 20:25:01] Executing command: transitioner -d 3
+2024-03-16 20:25:01.8546  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 20:25:01.8563 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 20:30:01] Executing command: transitioner -d 3
+2024-03-16 20:30:01.2565  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 20:30:01.2586 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 20:35:01] Executing command: transitioner -d 3
+2024-03-16 20:35:01.7931  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 20:35:01.7949 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 20:40:01] Executing command: transitioner -d 3
+2024-03-16 20:40:01.1864  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 20:40:01.1879 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 20:45:01] Executing command: transitioner -d 3
+2024-03-16 20:45:01.5878  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 20:45:01.5897 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 20:50:01] Executing command: transitioner -d 3
+2024-03-16 20:50:02.1250  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 20:50:02.1269 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 20:55:01] Executing command: transitioner -d 3
+2024-03-16 20:55:01.5126  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 20:55:01.5142 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 21:00:01] Executing command: transitioner -d 3
+2024-03-16 21:00:02.1247  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 21:00:02.1485 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 21:05:01] Executing command: transitioner -d 3
+2024-03-16 21:05:01.5001  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 21:05:01.5111 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 21:10:01] Executing command: transitioner -d 3
+2024-03-16 21:10:01.9609  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 21:10:01.9629 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 21:15:01] Executing command: transitioner -d 3
+2024-03-16 21:15:01.4210  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 21:15:01.4233 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 21:20:01] Executing command: transitioner -d 3
+2024-03-16 21:20:01.8633  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 21:20:01.8651 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 21:25:02] Executing command: transitioner -d 3
+2024-03-16 21:25:02.2154  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 21:25:02.2185 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 21:30:01] Executing command: transitioner -d 3
+2024-03-16 21:30:01.6796  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 21:30:01.6812 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 21:35:02] Executing command: transitioner -d 3
+2024-03-16 21:35:02.1371  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 21:35:02.1471 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 21:40:01] Executing command: transitioner -d 3
+2024-03-16 21:40:01.5672  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 21:40:01.5716 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 21:45:01] Executing command: transitioner -d 3
+2024-03-16 21:45:02.0000  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 21:45:02.0026 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 21:50:01] Executing command: transitioner -d 3
+2024-03-16 21:50:01.4984  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 21:50:01.5004 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 21:55:01] Executing command: transitioner -d 3
+2024-03-16 21:55:01.9992  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 21:55:02.0011 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 22:00:01] Executing command: transitioner -d 3
+2024-03-16 22:00:01.3879  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 22:00:01.3927 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 22:05:01] Executing command: transitioner -d 3
+2024-03-16 22:05:01.8161  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 22:05:01.8187 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 22:10:01] Executing command: transitioner -d 3
+2024-03-16 22:10:01.2559  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 22:10:01.2577 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 22:15:01] Executing command: transitioner -d 3
+2024-03-16 22:15:01.7472  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 22:15:01.7579 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 22:20:02] Executing command: transitioner -d 3
+2024-03-16 22:20:02.2831  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 22:20:02.2850 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 22:25:01] Executing command: transitioner -d 3
+2024-03-16 22:25:01.7073  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 22:25:01.7247 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 22:30:01] Executing command: transitioner -d 3
+2024-03-16 22:30:01.3375  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 22:30:01.3395 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 22:35:01] Executing command: transitioner -d 3
+2024-03-16 22:35:01.7619  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 22:35:01.7636 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 22:40:01] Executing command: transitioner -d 3
+2024-03-16 22:40:01.2008  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 22:40:01.2026 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 22:45:01] Executing command: transitioner -d 3
+2024-03-16 22:45:01.6595  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 22:45:01.6614 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 22:50:02] Executing command: transitioner -d 3
+2024-03-16 22:50:02.1857  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 22:50:02.1874 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 22:55:01] Executing command: transitioner -d 3
+2024-03-16 22:55:01.5896  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 22:55:01.5931 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 23:00:01] Executing command: transitioner -d 3
+2024-03-16 23:00:02.0634  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 23:00:02.0655 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 23:05:01] Executing command: transitioner -d 3
+2024-03-16 23:05:01.4283  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 23:05:01.4302 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 23:10:01] Executing command: transitioner -d 3
+2024-03-16 23:10:01.8563  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 23:10:01.8752 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 23:15:01] Executing command: transitioner -d 3
+2024-03-16 23:15:01.2808  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 23:15:01.2825 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 23:20:01] Executing command: transitioner -d 3
+2024-03-16 23:20:01.8641  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 23:20:01.8657 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 23:25:01] Executing command: transitioner -d 3
+2024-03-16 23:25:01.2541  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 23:25:01.2582 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 23:30:01] Executing command: transitioner -d 3
+2024-03-16 23:30:01.7209  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 23:30:01.7227 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 23:35:02] Executing command: transitioner -d 3
+2024-03-16 23:35:02.2873  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 23:35:02.2891 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 23:40:01] Executing command: transitioner -d 3
+2024-03-16 23:40:01.7378  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 23:40:01.7409 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 23:45:02] Executing command: transitioner -d 3
+2024-03-16 23:45:02.1817  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 23:45:02.1835 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 23:50:01] Executing command: transitioner -d 3
+2024-03-16 23:50:01.6743  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 23:50:01.6760 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/16 23:55:02] Executing command: transitioner -d 3
+2024-03-16 23:55:02.1787  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-16 23:55:02.1821 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/17 00:00:01] Executing command: transitioner -d 3
+2024-03-17 00:00:01.9768  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-17 00:00:01.9821 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/17 00:05:01] Executing command: transitioner -d 3
+2024-03-17 00:05:01.4065  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-17 00:05:01.4083 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/17 00:10:01] Executing command: transitioner -d 3
+2024-03-17 00:10:01.9382  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-17 00:10:01.9399 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/17 00:15:01] Executing command: transitioner -d 3
+2024-03-17 00:15:01.3311  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-17 00:15:01.3326 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/17 00:20:01] Executing command: transitioner -d 3
+2024-03-17 00:20:02.0914  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-17 00:20:02.0975 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/17 00:25:01] Executing command: transitioner -d 3
+2024-03-17 00:25:01.4979  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-17 00:25:01.4998 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/17 00:30:01] Executing command: transitioner -d 3
+2024-03-17 00:30:01.9491  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-17 00:30:01.9509 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/17 00:35:01] Executing command: transitioner -d 3
+2024-03-17 00:35:01.3910  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-17 00:35:01.3929 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/17 00:40:01] Executing command: transitioner -d 3
+2024-03-17 00:40:01.9451  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-17 00:40:01.9468 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/17 00:45:01] Executing command: transitioner -d 3
+2024-03-17 00:45:01.4301  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-17 00:45:01.4318 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/17 00:50:01] Executing command: transitioner -d 3
+2024-03-17 00:50:01.8878  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-17 00:50:01.8943 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/17 00:55:01] Executing command: transitioner -d 3
+2024-03-17 00:55:01.4212  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-17 00:55:01.4229 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/17 01:00:01] Executing command: transitioner -d 3
+2024-03-17 01:00:01.9701  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-17 01:00:01.9724 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/17 01:05:01] Executing command: transitioner -d 3
+2024-03-17 01:05:01.3221  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-17 01:05:01.3245 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/17 01:10:01] Executing command: transitioner -d 3
+2024-03-17 01:10:01.8011  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-17 01:10:01.8043 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/17 01:15:01] Executing command: transitioner -d 3
+2024-03-17 01:15:01.2090  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-17 01:15:01.2108 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/17 01:20:01] Executing command: transitioner -d 3
+2024-03-17 01:20:01.6583  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-17 01:20:01.6601 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/17 01:25:01] Executing command: transitioner -d 3
+2024-03-17 01:25:02.0791  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-17 01:25:02.0889 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/17 01:30:01] Executing command: transitioner -d 3
+2024-03-17 01:30:02.0820  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-17 01:30:02.0847 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/17 01:35:01] Executing command: transitioner -d 3
+2024-03-17 01:35:01.4677  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-17 01:35:01.4703 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/17 01:40:01] Executing command: transitioner -d 3
+2024-03-17 01:40:02.0305  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-17 01:40:02.0323 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/17 01:45:01] Executing command: transitioner -d 3
+2024-03-17 01:45:01.4201  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-17 01:45:01.4217 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/17 01:50:01] Executing command: transitioner -d 3
+2024-03-17 01:50:01.8041  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-17 01:50:01.8059 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/17 01:55:01] Executing command: transitioner -d 3
+2024-03-17 01:55:01.3355  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-17 01:55:01.3373 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/17 02:00:01] Executing command: transitioner -d 3
+2024-03-17 02:00:01.7852  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-17 02:00:01.8121 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/17 02:05:02] Executing command: transitioner -d 3
+2024-03-17 02:05:02.3788  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-17 02:05:02.3805 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/17 02:10:01] Executing command: transitioner -d 3
+2024-03-17 02:10:01.8103  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-17 02:10:01.8127 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/17 02:15:01] Executing command: transitioner -d 3
+2024-03-17 02:15:01.2722  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-17 02:15:01.2740 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/17 02:20:01] Executing command: transitioner -d 3
+2024-03-17 02:20:01.7282  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-17 02:20:01.7302 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/17 02:25:01] Executing command: transitioner -d 3
+2024-03-17 02:25:02.0346  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-17 02:25:02.0362 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/17 02:30:01] Executing command: transitioner -d 3
+2024-03-17 02:30:01.4204  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-17 02:30:01.4220 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/17 02:35:01] Executing command: transitioner -d 3
+2024-03-17 02:35:01.8439  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-17 02:35:01.8460 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/17 02:40:01] Executing command: transitioner -d 3
+2024-03-17 02:40:01.2540  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-17 02:40:01.2581 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/17 02:45:01] Executing command: transitioner -d 3
+2024-03-17 02:45:01.6875  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-17 02:45:01.6910 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/17 02:50:02] Executing command: transitioner -d 3
+2024-03-17 02:50:02.2351  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-17 02:50:02.2388 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/17 02:55:01] Executing command: transitioner -d 3
+2024-03-17 02:55:01.7785  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-17 02:55:01.7816 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/17 03:00:01] Executing command: transitioner -d 3
+2024-03-17 03:00:01.2082  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-17 03:00:01.2100 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/17 03:05:01] Executing command: transitioner -d 3
+2024-03-17 03:05:01.6434  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-17 03:05:01.6454 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/17 03:10:01] Executing command: transitioner -d 3
+2024-03-17 03:10:02.1075  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-17 03:10:02.1097 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/17 03:15:01] Executing command: transitioner -d 3
+2024-03-17 03:15:01.5679  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-17 03:15:01.5731 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/17 03:20:02] Executing command: transitioner -d 3
+2024-03-17 03:20:02.1758  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-17 03:20:02.1857 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/17 03:25:01] Executing command: transitioner -d 3
+2024-03-17 03:25:01.2604  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-17 03:25:01.2621 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/17 03:30:01] Executing command: transitioner -d 3
+2024-03-17 03:30:01.7195  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-17 03:30:01.7341 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/17 03:35:02] Executing command: transitioner -d 3
+2024-03-17 03:35:02.1833  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-17 03:35:02.1858 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/17 03:40:01] Executing command: transitioner -d 3
+2024-03-17 03:40:01.6940  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-17 03:40:01.6987 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/17 03:45:02] Executing command: transitioner -d 3
+2024-03-17 03:45:02.1940  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-17 03:45:02.1958 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/17 03:50:01] Executing command: transitioner -d 3
+2024-03-17 03:50:01.6903  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-17 03:50:01.6922 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/17 03:55:02] Executing command: transitioner -d 3
+2024-03-17 03:55:02.1468  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-17 03:55:02.1484 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/17 04:00:01] Executing command: transitioner -d 3
+2024-03-17 04:00:01.7638  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-17 04:00:01.7898 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/17 04:05:02] Executing command: transitioner -d 3
+2024-03-17 04:05:02.3577  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-17 04:05:02.3595 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/17 04:10:01] Executing command: transitioner -d 3
+2024-03-17 04:10:01.8341  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-17 04:10:01.8358 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/17 04:15:01] Executing command: transitioner -d 3
+2024-03-17 04:15:01.2397  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-17 04:15:01.2414 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/17 04:20:01] Executing command: transitioner -d 3
+2024-03-17 04:20:01.6804  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-17 04:20:01.6823 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/17 04:25:01] Executing command: transitioner -d 3
+2024-03-17 04:25:01.9720  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-17 04:25:01.9738 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/17 04:30:01] Executing command: transitioner -d 3
+2024-03-17 04:30:01.3861  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-17 04:30:01.3880 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/17 04:35:01] Executing command: transitioner -d 3
+2024-03-17 04:35:01.8421  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-17 04:35:01.8438 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/17 04:40:01] Executing command: transitioner -d 3
+2024-03-17 04:40:01.3534  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-17 04:40:01.3551 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/17 04:45:01] Executing command: transitioner -d 3
+2024-03-17 04:45:02.0390  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-17 04:45:02.0428 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/17 04:50:01] Executing command: transitioner -d 3
+2024-03-17 04:50:01.3953  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-17 04:50:01.3970 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/17 04:55:01] Executing command: transitioner -d 3
+2024-03-17 04:55:01.9418  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-17 04:55:01.9440 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/17 05:00:01] Executing command: transitioner -d 3
+2024-03-17 05:00:01.3713  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-17 05:00:01.3858 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/17 05:05:01] Executing command: transitioner -d 3
+2024-03-17 05:05:01.8715  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-17 05:05:01.8731 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/17 05:10:01] Executing command: transitioner -d 3
+2024-03-17 05:10:01.3959  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-17 05:10:01.3977 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/17 05:15:01] Executing command: transitioner -d 3
+2024-03-17 05:15:01.8159  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-17 05:15:01.8179 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/17 05:20:01] Executing command: transitioner -d 3
+2024-03-17 05:20:01.4494  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-17 05:20:01.4513 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/17 05:25:01] Executing command: transitioner -d 3
+2024-03-17 05:25:01.9034  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-17 05:25:01.9132 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/17 05:30:01] Executing command: transitioner -d 3
+2024-03-17 05:30:01.2956  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-17 05:30:01.2974 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/17 05:35:01] Executing command: transitioner -d 3
+2024-03-17 05:35:01.7629  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-17 05:35:01.7649 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/17 05:40:02] Executing command: transitioner -d 3
+2024-03-17 05:40:02.3088  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-17 05:40:02.3106 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/17 05:45:01] Executing command: transitioner -d 3
+2024-03-17 05:45:01.6654  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-17 05:45:01.6734 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/17 05:50:02] Executing command: transitioner -d 3
+2024-03-17 05:50:02.1335  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-17 05:50:02.1351 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/17 05:55:01] Executing command: transitioner -d 3
+2024-03-17 05:55:01.5295  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-17 05:55:01.5319 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/17 06:00:01] Executing command: transitioner -d 3
+2024-03-17 06:00:01.9539  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-17 06:00:01.9571 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/17 06:05:01] Executing command: transitioner -d 3
+2024-03-17 06:05:01.4883  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-17 06:05:01.4917 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/17 06:10:01] Executing command: transitioner -d 3
+2024-03-17 06:10:01.9338  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-17 06:10:01.9352 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/17 06:15:01] Executing command: transitioner -d 3
+2024-03-17 06:15:01.3228  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-17 06:15:01.3244 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/17 06:20:01] Executing command: transitioner -d 3
+2024-03-17 06:20:02.1181  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-17 06:20:02.1226 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/17 06:25:01] Executing command: transitioner -d 3
+2024-03-17 06:25:01.7158  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-17 06:25:01.7450 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/17 06:30:02] Executing command: transitioner -d 3
+2024-03-17 06:30:02.2993  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-17 06:30:02.3117 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/17 06:35:01] Executing command: transitioner -d 3
+2024-03-17 06:35:01.7406  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-17 06:35:01.7424 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/17 06:40:02] Executing command: transitioner -d 3
+2024-03-17 06:40:02.3413  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-17 06:40:02.3431 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/17 06:45:01] Executing command: transitioner -d 3
+2024-03-17 06:45:01.7463  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-17 06:45:01.7481 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/17 06:50:02] Executing command: transitioner -d 3
+2024-03-17 06:50:02.3601  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-17 06:50:02.3622 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/17 06:55:01] Executing command: transitioner -d 3
+2024-03-17 06:55:01.7736  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-17 06:55:01.7757 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/17 07:00:02] Executing command: transitioner -d 3
+2024-03-17 07:00:02.3087  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-17 07:00:02.3110 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/17 07:05:01] Executing command: transitioner -d 3
+2024-03-17 07:05:01.8957  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-17 07:05:01.8976 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/17 07:10:01] Executing command: transitioner -d 3
+2024-03-17 07:10:01.2592  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-17 07:10:01.2610 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/17 07:15:01] Executing command: transitioner -d 3
+2024-03-17 07:15:01.6711  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-17 07:15:01.6727 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/17 07:20:02] Executing command: transitioner -d 3
+2024-03-17 07:20:02.4491  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-17 07:20:02.4557 [CRITICAL] boinc_db.open failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/17 07:25:01] Executing command: transitioner -d 3
+2024-03-17 07:25:01.4446  Starting
+GOT STOP SIGNAL
+2024-03-17 08:12:07.7384  Quitting due to SIGHUP
+[2024/03/17 08:12:10] Executing command: transitioner -d 3
+2024-03-17 08:12:10.7434  Starting
+GOT STOP SIGNAL
+2024-03-17 08:40:03.2440  Quitting due to SIGHUP
+[2024/03/17 08:40:07] Executing command: transitioner -d 3
+2024-03-17 08:40:07.2110  Starting
+GOT STOP SIGNAL
+2024-03-17 09:45:03.8378  Quitting due to SIGHUP
+[2024/03/17 09:48:42] Executing command: transitioner -d 3
+2024-03-17 09:48:42.4980  Starting
+GOT STOP SIGNAL
+2024-03-17 11:06:05.3729  Quitting due to SIGHUP
+[2024/03/17 11:06:07] Executing command: transitioner -d 3
+2024-03-17 11:06:07.8738  Starting
+[2024/03/17 11:25:01] Executing command: transitioner -d 3
+2024-03-17 11:25:01.7165  Starting
+[2024/03/17 11:30:01] Executing command: transitioner -d 3
+2024-03-17 11:30:01.7465  Starting
