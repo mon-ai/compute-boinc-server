@@ -38,3 +38,6 @@ Stack trace:
 #4 /home/boincadm/projects/proto/html/ops/delete_expired_tokens.php(8): BoincToken::delete_expired()
 #5 {main}
   thrown in /home/boincadm/projects/proto/html/inc/db_conn.inc on line 40
+Starting: 17 Mar 2024, 15:30:02 UTC
+0 tokens deleted
+Finished: 17 Mar 2024, 15:30:02 UTC

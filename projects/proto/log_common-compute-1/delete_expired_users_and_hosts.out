@@ -38,3 +38,7 @@ Stack trace:
 #4 /home/boincadm/projects/proto/html/ops/delete_expired_users_and_hosts.php(8): BoincUserDeleted::delete_expired()
 #5 {main}
   thrown in /home/boincadm/projects/proto/html/inc/db_conn.inc on line 40
+Starting: 17 Mar 2024, 15:30:02 UTC
+0 users deleted from user_deleted
+0 hosts deleted from host_deleted
+Finished: 17 Mar 2024, 15:30:02 UTC

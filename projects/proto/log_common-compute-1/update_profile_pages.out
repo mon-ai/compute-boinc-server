@@ -34,3 +34,21 @@ Stack trace:
 #3 /home/boincadm/projects/proto/html/ops/update_profile_pages.php(38): db_init()
 #4 {main}
   thrown in /home/boincadm/projects/proto/html/inc/db.inc on line 52
+Sun, 17 Mar 24 15:30:02 +0000: Starting
+Beginning to build country pages...
+0 users have profiles AND non-null country entries.
+Beginning to build country summary page...
+done building country summary page
+done building country pages
+Beginning to build alphabetical pages...
+0 users have profiles AND names.
+PHP Warning:  Undefined variable $letters_used in /home/boincadm/projects/proto/html/ops/update_profile_pages.php on line 328
+
+Warning: Undefined variable $letters_used in /home/boincadm/projects/proto/html/ops/update_profile_pages.php on line 328
+Beginning to build alphabetical summary pages...
+done building alphabetical pages
+Beginning to build picture pages...
+0 users have profiles AND uploaded a picture
+Generating 1 pages
+done building picture pages
+Sun, 17 Mar 24 15:30:02 +0000: Finished

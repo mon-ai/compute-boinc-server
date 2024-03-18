@@ -48,3 +48,10 @@ Stack trace:
 #6 /home/boincadm/projects/proto/html/ops/update_uotd.php(35): select_uotd()
 #7 {main}
   thrown in /home/boincadm/projects/proto/html/inc/db_conn.inc on line 40
+
+March 17 2024 UTC: Starting
+using default candidates_query
+approved candidates for UOTD under UOTD_THRESHOLD
+sh: 1: /usr/sbin/sendmail: not found
+no new verified profile found, selecting old UOTD that was shown least recently
+No screened users found

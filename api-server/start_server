@@ -1,2 +1,0 @@
-#!/usr/bin/env bash
-poetry run gunicorn -D -w 4 -k uvicorn.workers.UvicornWorker api_server.main:app

@@ -1944,3 +1944,21 @@ GOT STOP SIGNAL
 2024-03-17 11:25:01.8134  Starting
 [2024/03/17 11:30:01] Executing command: file_deleter -d 3
 2024-03-17 11:30:01.8427  Starting
+[2024/03/18 05:25:01] Executing command: file_deleter -d 3
+2024-03-18 05:25:01.9660  Starting
+Database error: Lost connection to MySQL server during query
+query=select * from result where file_delete_state=1  limit 1500
+[2024/03/18 05:35:28] Executing command: file_deleter -d 3
+2024-03-18 05:35:29.0000  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-18 05:35:29.1489 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/18 05:37:03] Executing command: file_deleter -d 3
+2024-03-18 05:37:05.3510  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-18 05:37:05.3609 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/18 05:40:10] Executing command: file_deleter -d 3
+2024-03-18 05:40:11.3117  Starting
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-18 05:40:11.3604 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/18 05:45:01] Executing command: file_deleter -d 3
+2024-03-18 05:45:02.0331  Starting

@@ -1,4 +1,2 @@
-
-<!-- <scheduler>http://http://64.23.226.98/proto_cgi/cgi</scheduler> -->"
-<link rel="boinc_scheduler" href="http://http://64.23.226.98/proto_cgi/cgi"">
-        
+<!-- <scheduler>https://boinc.mmon.co/proto_cgi/cgi</scheduler> -->
+<link rel="boinc_scheduler" href="https:boinc.mmon.co/proto_cgi/cgi">

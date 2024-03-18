@@ -2481,3 +2481,41 @@ have apps for Intel GPU: no
 have apps for Apple GPU: no
 2024-03-17 11:30:01.7217  read 19 platforms, 0 apps, 0 app_versions, 0 assignments
 2024-03-17 11:30:01.7217  Using 100 job slots
+[2024/03/18 05:25:01] Executing command: feeder -d 3
+2024-03-18 05:25:01.7734  Starting
+2024-03-18 05:25:01.7738  0f4bee61f29e7235b14f90d8c7d45bc7b3af918d [https://github.com/BOINC/boinc.git] (common-compute-1:/home/boincadm/boinc-server/boinc [master]) [Server-Release: server_release/1.x/1.x.0-901-g0f4bee61f29e7235b14f90d8c7d45bc7b3af918d]
+have apps for CPU: no
+have apps for NVIDIA GPU: no
+have apps for AMD/ATI GPU: no
+have apps for Intel GPU: no
+have apps for Apple GPU: no
+2024-03-18 05:25:01.8827  read 19 platforms, 0 apps, 0 app_versions, 0 assignments
+2024-03-18 05:25:01.8830  Using 100 job slots
+Database error: Lost connection to MySQL server during query
+query=select high_priority r1.id, r1.priority, r1.server_state, r1.report_deadline, workunit.* from result r1 force index(ind_res_st), workunit, app  where r1.server_state=2  and r1.workunitid=workunit.id  and workunit.appid=app.id  and app.deprecated=0  and workunit.transitioner_flags=0     limit 200
+2024-03-18 05:35:28.0594 [CRITICAL] DB connection lost, exiting
+[2024/03/18 05:35:28] Executing command: feeder -d 3
+2024-03-18 05:35:28.7767  Starting
+2024-03-18 05:35:28.7767  0f4bee61f29e7235b14f90d8c7d45bc7b3af918d [https://github.com/BOINC/boinc.git] (common-compute-1:/home/boincadm/boinc-server/boinc [master]) [Server-Release: server_release/1.x/1.x.0-901-g0f4bee61f29e7235b14f90d8c7d45bc7b3af918d]
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-18 05:35:29.2285 [CRITICAL] boinc_db.open: -138; Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/18 05:37:03] Executing command: feeder -d 3
+2024-03-18 05:37:04.5058  Starting
+2024-03-18 05:37:04.5127  0f4bee61f29e7235b14f90d8c7d45bc7b3af918d [https://github.com/BOINC/boinc.git] (common-compute-1:/home/boincadm/boinc-server/boinc [master]) [Server-Release: server_release/1.x/1.x.0-901-g0f4bee61f29e7235b14f90d8c7d45bc7b3af918d]
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-18 05:37:05.2974 [CRITICAL] boinc_db.open: -138; Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/18 05:40:10] Executing command: feeder -d 3
+2024-03-18 05:40:11.0489  Starting
+2024-03-18 05:40:11.0490  0f4bee61f29e7235b14f90d8c7d45bc7b3af918d [https://github.com/BOINC/boinc.git] (common-compute-1:/home/boincadm/boinc-server/boinc [master]) [Server-Release: server_release/1.x/1.x.0-901-g0f4bee61f29e7235b14f90d8c7d45bc7b3af918d]
+mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+2024-03-18 05:40:11.4512 [CRITICAL] boinc_db.open: -138; Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[2024/03/18 05:45:01] Executing command: feeder -d 3
+2024-03-18 05:45:01.8367  Starting
+2024-03-18 05:45:01.8367  0f4bee61f29e7235b14f90d8c7d45bc7b3af918d [https://github.com/BOINC/boinc.git] (common-compute-1:/home/boincadm/boinc-server/boinc [master]) [Server-Release: server_release/1.x/1.x.0-901-g0f4bee61f29e7235b14f90d8c7d45bc7b3af918d]
+have apps for CPU: no
+have apps for NVIDIA GPU: no
+have apps for AMD/ATI GPU: no
+have apps for Intel GPU: no
+have apps for Apple GPU: no
+2024-03-18 05:45:01.8732  read 19 platforms, 0 apps, 0 app_versions, 0 assignments
+2024-03-18 05:45:01.8732  Using 100 job slots

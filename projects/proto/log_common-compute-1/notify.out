@@ -44,3 +44,7 @@ Stack trace:
 #5 /home/boincadm/projects/proto/html/ops/notify.php(109): delete_old_notifies()
 #6 {main}
   thrown in /home/boincadm/projects/proto/html/inc/db_conn.inc on line 40
+
+Starting at 17 Mar 2024, 15:30:02 UTC
+Ending at 17 Mar 2024, 15:30:02 UTC
+
