@@ -1,3 +1,4 @@
+<?xml version="1.0" ?>
 <boinc>
     <platform>
         <name>windows_intelx86</name>
@@ -75,4 +76,8 @@
         <name>anonymous</name>
         <user_friendly_name>anonymous</user_friendly_name>
     </platform>
+    <app>
+        <name>boinc2docker</name>
+        <user_friendly_name>boinc2docker</user_friendly_name>
+    </app>
 </boinc>

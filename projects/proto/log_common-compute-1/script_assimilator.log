@@ -1,0 +1,10 @@
+[2024/03/19 13:10:01] Executing command: script_assimilator --app boinc2docker --script "boinc2docker_assimilator files"
+2024-03-19 13:10:02.0597 [CRITICAL] Can't find app: boinc2docker
+[2024/03/19 13:15:01] Executing command: script_assimilator --app boinc2docker --script "boinc2docker_assimilator files"
+2024-03-19 13:15:01.6466 [CRITICAL] Can't find app: boinc2docker
+[2024/03/19 13:20:02] Executing command: script_assimilator --app boinc2docker --script "boinc2docker_assimilator files"
+2024-03-19 13:20:02.3157 [CRITICAL] Can't find app: boinc2docker
+[2024/03/19 13:25:01] Executing command: script_assimilator --app boinc2docker --script "boinc2docker_assimilator files"
+2024-03-19 13:25:01.8935 [CRITICAL] Can't find app: boinc2docker
+[2024/03/19 13:30:01] Executing command: script_assimilator --app boinc2docker --script "boinc2docker_assimilator files"
+2024-03-19 13:30:01.6065  Starting assimilator handler

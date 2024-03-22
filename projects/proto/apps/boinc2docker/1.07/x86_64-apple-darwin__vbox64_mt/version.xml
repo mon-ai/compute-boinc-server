@@ -1,0 +1,17 @@
+<version>
+
+   <file>
+      <physical_name>vboxwrapper_26199_x86_64-apple-darwin</physical_name>
+      <main_program/>
+   </file>
+
+   <file>
+      <physical_name>vm_isocontext_v1.0.0.iso</physical_name>
+      <logical_name>vm_isocontext.iso</logical_name>      
+      <copy_file/>
+   </file>
+
+   <dont_throttle/> 
+   <needs_network/>
+   
+</version>

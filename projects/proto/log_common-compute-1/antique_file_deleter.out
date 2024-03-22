@@ -4,3 +4,11 @@ mysql_real_connect(): 2002: Can't connect to local MySQL server through socket '
 2024-03-16 15:30:01.9052 [CRITICAL] can't open DB: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
 2024-03-17 15:30:02.1208 [CRITICAL] Couldn't find http_user 'apache' in passwd
 2024-03-17 15:30:02.1217 [CRITICAL] delete_antiques() returned with error -1
+2024-03-18 15:30:02.0074 [CRITICAL] Couldn't find http_user 'apache' in passwd
+2024-03-18 15:30:02.0074 [CRITICAL] delete_antiques() returned with error -1
+2024-03-19 15:30:01.7815 [CRITICAL] Couldn't find http_user 'apache' in passwd
+2024-03-19 15:30:01.7815 [CRITICAL] delete_antiques() returned with error -1
+2024-03-20 15:30:01.9384 [CRITICAL] Couldn't find http_user 'apache' in passwd
+2024-03-20 15:30:01.9387 [CRITICAL] delete_antiques() returned with error -1
+2024-03-21 15:30:01.8694 [CRITICAL] Couldn't find http_user 'apache' in passwd
+2024-03-21 15:30:01.8694 [CRITICAL] delete_antiques() returned with error -1

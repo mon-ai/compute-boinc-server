@@ -1,0 +1,19 @@
+[2024/03/19 13:10:01] Executing command: sample_trivial_validator -app boinc2docker
+2024-03-19 13:10:02.1598  max_granted_credit: 73000000.000000
+2024-03-19 13:10:02.1599  Starting validator, debug level 3
+2024-03-19 13:10:02.1609 [CRITICAL] can't find app boinc2docker
+[2024/03/19 13:15:01] Executing command: sample_trivial_validator -app boinc2docker
+2024-03-19 13:15:01.7470  max_granted_credit: 73000000.000000
+2024-03-19 13:15:01.7471  Starting validator, debug level 3
+2024-03-19 13:15:01.7478 [CRITICAL] can't find app boinc2docker
+[2024/03/19 13:20:02] Executing command: sample_trivial_validator -app boinc2docker
+2024-03-19 13:20:02.4163  max_granted_credit: 73000000.000000
+2024-03-19 13:20:02.4163  Starting validator, debug level 3
+2024-03-19 13:20:02.4170 [CRITICAL] can't find app boinc2docker
+[2024/03/19 13:25:01] Executing command: sample_trivial_validator -app boinc2docker
+2024-03-19 13:25:01.9938  max_granted_credit: 73000000.000000
+2024-03-19 13:25:01.9939  Starting validator, debug level 3
+2024-03-19 13:25:01.9946 [CRITICAL] can't find app boinc2docker
+[2024/03/19 13:30:01] Executing command: sample_trivial_validator -app boinc2docker
+2024-03-19 13:30:01.7115  max_granted_credit: 73000000.000000
+2024-03-19 13:30:01.7116  Starting validator, debug level 3

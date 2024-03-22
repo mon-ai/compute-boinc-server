@@ -5,13 +5,7 @@
         <db_user>boincadm</db_user>
         <db_name>proto</db_name>
         <db_passwd>Rundown-upsets-knuckle-facade-14</db_passwd>
-        <db_host>
-            
-            
-            
-            
-            
-        </db_host>
+        <db_host/>
         <shmem_key>0x11118061</shmem_key>
         <uldl_dir_fanout>1024</uldl_dir_fanout>
         <host>common-compute-1</host>
@@ -112,13 +106,19 @@
     </tasks>
     <daemons>
         <daemon>
-            <cmd>feeder -d 3 </cmd>
+            <cmd>feeder -d 3</cmd>
         </daemon>
         <daemon>
-            <cmd>transitioner -d 3 </cmd>
+            <cmd>transitioner -d 3</cmd>
         </daemon>
         <daemon>
-            <cmd>file_deleter -d 3 </cmd>
+            <cmd>file_deleter -d 3</cmd>
+        </daemon>
+        <daemon>
+            <cmd>script_assimilator --app boinc2docker --script "boinc2docker_assimilator files"</cmd>
+        </daemon>
+        <daemon>
+            <cmd>sample_trivial_validator -app boinc2docker</cmd>
         </daemon>
     </daemons>
 </boinc>

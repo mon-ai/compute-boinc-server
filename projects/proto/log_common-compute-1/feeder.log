@@ -2519,3 +2519,22 @@ have apps for Intel GPU: no
 have apps for Apple GPU: no
 2024-03-18 05:45:01.8732  read 19 platforms, 0 apps, 0 app_versions, 0 assignments
 2024-03-18 05:45:01.8732  Using 100 job slots
+GOT STOP SIGNAL
+2024-03-19 12:46:24.9693  Quitting due to SIGHUP
+[2024/03/19 12:46:31] Executing command: feeder -d 3
+2024-03-19 12:46:31.1554  Starting
+2024-03-19 12:46:31.1555  0f4bee61f29e7235b14f90d8c7d45bc7b3af918d [https://github.com/BOINC/boinc.git] (common-compute-1:/home/boincadm/boinc-server/boinc [master]) [Server-Release: server_release/1.x/1.x.0-901-g0f4bee61f29e7235b14f90d8c7d45bc7b3af918d]
+have apps for CPU: no
+have apps for NVIDIA GPU: no
+have apps for AMD/ATI GPU: no
+have apps for Intel GPU: no
+have apps for Apple GPU: no
+2024-03-19 12:46:31.1995  read 19 platforms, 1 apps, 0 app_versions, 0 assignments
+2024-03-19 12:46:31.1996  Using 100 job slots
+2024-03-19 13:30:22.0075  Found trigger file reread_db; re-scanning database tables.
+have apps for CPU: yes
+have apps for NVIDIA GPU: no
+have apps for AMD/ATI GPU: no
+have apps for Intel GPU: no
+have apps for Apple GPU: no
+2024-03-19 13:30:22.0204  Done re-scanning: trigger file removed.
