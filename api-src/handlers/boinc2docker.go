@@ -31,7 +31,7 @@ func Boinc2DockerHandler(c echo.Context) error {
 	// create command
 	cmd := exec.Command("echo", args...)
 	// write stdout to file
-	f, err := os.Create(fmt.Sprintf("/home/boincadm/logs/api/%s-stdout.log", time.Now()))
+	f, err := os.Create(fmt.Sprintf("%s/api/%s-stdout.log", os.Getenv("LOGS_DIR"), time.Now()))
 	if err != nil {
 		return c.String(500, err.Error())
 	}
