@@ -29,7 +29,7 @@ func Boinc2DockerHandler(c echo.Context) error {
 		return c.String(400, err.Error())
 	}
 	// create command
-	cmd := exec.Command("./run.js", args...)
+	cmd := exec.Command("echo", args...)
 	// write stdout to file
 	f, err := os.Create(fmt.Sprintf("logs/%s-stdout.log", time.Now()))
 	if err != nil {
